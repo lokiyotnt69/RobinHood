@@ -17,14 +17,16 @@
 		<thumbnail>https://fanart.tv/fanart/tv/79479/hdtvlogo/robin-hood-50e7040a75f56.png</thumbnail>
 		<fanart>https://www.uphe.com/sites/default/files/2015/04/Robin-Hood-Gallery-12.jpg</fanart>
 		<link>http://ignorame</link>
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/BaseRobin.xml</externallink>
-	</channel>
-
-	<channel>
-		<name>[COLOR red][/COLOR][COLOR blue][/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
-		<thumbnail>https://fanart.tv/fanart/tv/79479/hdtvlogo/robin-hood-50e7040a75f56.png</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link>http://ignorame</link>
 		<externallink></externallink>
 	</channel>
+	
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] ROBIN*HOOD[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://fanart.tv/fanart/tv/79479/hdtvlogo/robin-hood-50e7040a75f56.png</thumbnail>
+		<fanart>https://www.uphe.com/sites/default/files/2015/04/Robin-Hood-Gallery-12.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/BaseRobin.xml</externallink>
+	</channel>
+	
 	
