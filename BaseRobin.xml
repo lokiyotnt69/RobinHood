@@ -7,17 +7,26 @@
 
 
 <item>
-<title>
-[COLOR red]*************** [/COLOR][COLOR blue] EVENTOS  [/COLOR][COLOR red] DEPORTIVOS********  [/COLOR]</title>
+<title>[COLOR yellow]****BIENVENIDOS*******A**** [/COLOR][COLOR blue] ROBIN  [/COLOR][COLOR red] HOOD********  [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
 
 <item>
-<title>[COLOR red]* [/COLOR][COLOR blue] MUNDO [/COLOR][COLOR red] INFANTIL [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] Series [/COLOR][COLOR red] ROBIN HOOD [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR red]* [/COLOR][COLOR blue] Series*RETRO [/COLOR][COLOR red] ROBIN HOOD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
