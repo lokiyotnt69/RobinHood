@@ -89,6 +89,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 [COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]
  
+ 
+
+<item>
+<title>[COLOR white]*JHG [/COLOR][COLOR white] CINEFLIX [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
+<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] VIDEOCLUB[/COLOR] [COLOR red] JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
+<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
+</item>
 
 
 
