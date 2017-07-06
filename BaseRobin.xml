@@ -166,6 +166,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+ 
+<item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] SERIES [/COLOR][COLOR lime] INFANTILES [/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/ZONASERIESKIRA.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR red]*	PROGRAMAS[/COLOR][COLOR skyblue] TV[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Programastv.xml</externallink>
+</item>
+	
 
 
 
@@ -179,7 +197,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES RETRO[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
 
 
 
@@ -203,6 +227,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
 </item>
 
+
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]**MASTER SPORTS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/DEPORTEMANIAJULIO2017/master/basedeportesjulio.xml</externallink>
+	</channel>
+	
+
+ 
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ESTRENOS(En reformas)[/COLOR] [COLOR red] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</thumbnail>
+<fanart>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ESTRENOSDIABLO.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
+<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20INFIERNO.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO 2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
+<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ELINFIERNO22.xml</externallink>	
+</item>
 
 
 <item>
