@@ -299,11 +299,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] LOS 100 [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>https://serienytt.no/wp-content/uploads/2018/10/The100_Serienytt-640x360.jpg</thumbnail>
+<fanart>https://serienytt.no/wp-content/uploads/2018/10/The100_Serienytt-640x360.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/LOS100.xml</externallink>	
 </item>
 
 
