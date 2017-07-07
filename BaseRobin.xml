@@ -280,14 +280,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] BLACK SAILS[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://cdns.directv.com/content/dam/dtv/directv_entertainment/premiums/premiums_poster_Black_Sails.jpg</thumbnail>
-<fanart>https://cdns.directv.com/content/dam/dtv/directv_entertainment/premiums/premiums_poster_Black_Sails.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/BLACKSAILS.xml</externallink>	
-</item>
-
 
 <item>
 <title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] ALLI ABAJO[/COLOR]</title>
@@ -304,6 +296,84 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://serienytt.no/wp-content/uploads/2018/10/The100_Serienytt-640x360.jpg</thumbnail>
 <fanart>https://serienytt.no/wp-content/uploads/2018/10/The100_Serienytt-640x360.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/LOS100.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] ARROW[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://3.bp.blogspot.com/-SLq1RtHtepI/VWTkB0DhFzI/AAAAAAAABmw/p-yO8lHdxmc/s640/0a.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-SLq1RtHtepI/VWTkB0DhFzI/AAAAAAAABmw/p-yO8lHdxmc/s640/0a.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/ARROW.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] BLACK SAILS[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://cdns.directv.com/content/dam/dtv/directv_entertainment/premiums/premiums_poster_Black_Sails.jpg</thumbnail>
+<fanart>https://cdns.directv.com/content/dam/dtv/directv_entertainment/premiums/premiums_poster_Black_Sails.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/BLACKSAILS.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] DEDICADO A TONI[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://1.bp.blogspot.com/-uGjmsm6LCfI/VBcoC5ED1dI/AAAAAAAAnag/_iEeME37B8g/s1600/5555.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-uGjmsm6LCfI/VBcoC5ED1dI/AAAAAAAAnag/_iEeME37B8g/s1600/5555.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SUPERAGENTE86.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
