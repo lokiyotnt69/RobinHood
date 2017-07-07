@@ -317,7 +317,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] DEDICADO A TONI[/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] SUPERAGENTE 86 DEDICADO A TONI[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://1.bp.blogspot.com/-uGjmsm6LCfI/VBcoC5ED1dI/AAAAAAAAnag/_iEeME37B8g/s1600/5555.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-uGjmsm6LCfI/VBcoC5ED1dI/AAAAAAAAnag/_iEeME37B8g/s1600/5555.jpg</fanart>
@@ -326,19 +326,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] EL PATRON DEL MAL[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal_tv_series-432126437-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal_tv_series-432126437-large.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/Patrondelmal.xml</externallink>	
 </item>
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] LOS SERRANO [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>http://los40es00.epimg.net/los40/imagenes/2014/09/23/cinetv/1411478422_177898_1411478666_noticia_normal.jpg</thumbnail>
+<fanart>http://los40es00.epimg.net/los40/imagenes/2014/09/23/cinetv/1411478422_177898_1411478666_noticia_normal.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/LOSERRANO.xml</externallink>	
 </item>
 
 
