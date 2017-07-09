@@ -67,7 +67,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
+		<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</externallink>
+	</channel>
 
+
+
+
+<item>
+<title>[COLOR red]*MOVISTAR [/COLOR][COLOR blue] PLUS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Megalista</externallink>	
+</item>
 
 
 
@@ -342,6 +359,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES   [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/SERIESJUANHINOJOSA.xml</externallink>
+	</channel>
+	
+
+
 <item>
 <title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] UN PASO ADELANTE[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -359,11 +386,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] ROBIN[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</</externallink>	
 </item>
 
 
