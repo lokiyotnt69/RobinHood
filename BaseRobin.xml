@@ -431,27 +431,37 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]*PLUS66 [/COLOR][COLOR  lime] [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Sportdevil.xml</externallink>	
+</item>
+
+	
+	
+<item>
+<title>[COLOR yellow]=====> [/COLOR][COLOR skyblue] SPORTDEVIL [/COLOR] [/COLOR red]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Telefiveg.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] TOROSTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</thumbnail>
+<fanart>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
 </item>
 
 
 <item>
 <title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]THE[/COLOR][COLOR red]JOKER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
 </item>
