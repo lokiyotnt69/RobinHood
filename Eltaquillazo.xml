@@ -3,23 +3,61 @@
 
 
 
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
 
 <item>
 <title>-[COLOR  red] * [/COLOR][COLOR  lime] ZONA[/COLOR][COLOR  red] HOSTIL [/COLOR]</title>
-<link>http://Ignoreme</link>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51CZRUJE7wL._SS500.jpg</thumbnail>
 <fanart>https://images-eu.ssl-images-amazon.com/images/I/51CZRUJE7wL._SS500.jpg</fanart>
-<externallink>http://streamcloud.eu/hi9h2ts4q3h6</externallink>	
+<urlsolve>http://streamcloud.eu/hi9h2ts4q3h6</urlsolve>
 </item>
 
 
 <item>
 <title>-[COLOR  red] * [/COLOR][COLOR  red] TRANSFORMERS [/COLOR][COLOR  red] EL ULTIMO CABALLERO [/COLOR]</title>
+<thumbnail>http://es.web.img2.acsta.net/newsv7/16/08/26/09/39/588314.jpg</thumbnail>
+<fanart>http://es.web.img2.acsta.net/newsv7/16/08/26/09/39/588314.jpg</fanart>
+<urlsolve>http://streamcloud.eu/xafm2oquxn2d</urlsolve>
+</item>
+
+
+<item>
+<title>-[COLOR  red]  [/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<urlsolve></urlsolve>	
+<link></link>
+</item>
+
+
+
+
+<item>
+<title>-[COLOR  red]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://streamcloud.eu/xafm2oquxn2d</externallink>	
+<externallink></externallink>	
 </item>
+
+
+
+<item>
+<title>-[COLOR  red]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
 
 
 <item>
