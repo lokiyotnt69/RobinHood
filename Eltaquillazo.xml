@@ -14,7 +14,7 @@
 
 
 <item>
-<title>-[COLOR  red] * [/COLOR][COLOR  lime] ZONA[/COLOR][COLOR  red] HOSTIL [/COLOR]</title>
+<title>[COLOR  red] * [/COLOR][COLOR  lime] ZONA[/COLOR][COLOR  lime] HOSTIL [/COLOR]</title>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/51CZRUJE7wL._SS500.jpg</thumbnail>
 <fanart>https://images-eu.ssl-images-amazon.com/images/I/51CZRUJE7wL._SS500.jpg</fanart>
 <urlsolve>http://streamcloud.eu/hi9h2ts4q3h6</urlsolve>
@@ -22,11 +22,84 @@
 
 
 <item>
-<title>-[COLOR  red] * [/COLOR][COLOR  red] TRANSFORMERS [/COLOR][COLOR  red] EL ULTIMO CABALLERO [/COLOR]</title>
+<title>[COLOR  red] * [/COLOR][COLOR lime] TRANSFORMERS [/COLOR][COLOR  lime] EL ULTIMO CABALLERO (calidad TS) [/COLOR]</title>
 <thumbnail>http://es.web.img2.acsta.net/newsv7/16/08/26/09/39/588314.jpg</thumbnail>
 <fanart>http://es.web.img2.acsta.net/newsv7/16/08/26/09/39/588314.jpg</fanart>
 <urlsolve>http://streamcloud.eu/xafm2oquxn2d</urlsolve>
 </item>
+
+
+
+
+<item>
+<title>[COLOR  red] * [/COLOR][COLOR  lime] UN JEFE EN PAÑALES [/COLOR]</title>
+<urlsolve>http://streamcloud.eu/iwrfct1w66dn</urlsolve>
+<thumbnail>https://www.cinelandia.com.co/archivos/proximo/afiche_jefe_en_panales.jpg</thumbnail>
+<fanart>https://www.cinelandia.com.co/archivos/proximo/afiche_jefe_en_panales.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR  red]* [/COLOR][COLOR  lime] Poqer Rangers 2017 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/macacos123/marvinos-movies-latino-66230/power-rangers-2017-hd-1080p-dolby-digital-5-1-dual-latino-marvino,1005651.mkv</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/macacos123/marvinos-movies-latino-66230/power-rangers-2017-hd-1080p-dolby-digital-5-1-dual-latino-marvino,1005651.mkv</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR  red]  [/COLOR][COLOR  red]  [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR  red]  [/COLOR][COLOR  red]  [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 
 <item>
