@@ -96,6 +96,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+<item>
+<title>[COLOR red]* [/COLOR][COLOR red] LREYLIST [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/LReylist/repository.LReylist_Oficial/master/plugin.video.LReylist/addon.xml</externallink>	
+</item>
+
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR  yellow]* [/COLOR][COLOR  lime] ESTRENOS [/COLOR][COLOR  lime] 2017 [/COLOR]</title>
 <link>$doregex[makelist]</link>
