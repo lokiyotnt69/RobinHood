@@ -79,11 +79,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]*MOVISTAR [/COLOR][COLOR blue] PLUS [/COLOR]</title>
+<title>[COLOR red]*TAQUILLAS [/COLOR][COLOR blue] ANTIGUAS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Megalista</externallink>	
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/taquillaantigua.xml</externallink>	
 </item>
 
 http://pastebin.com/raw/iF1y6PXA
