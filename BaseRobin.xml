@@ -77,6 +77,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+	
 
 <item>
 <title>[COLOR red]*TAQUILLAS [/COLOR][COLOR blue] ANTIGUAS [/COLOR]</title>
@@ -109,7 +110,7 @@ http://pastebin.com/raw/P68UFMN4
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-               <title>[B][COLOR yellow] Episodio[/COLOR] 1[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <title>[B][COLOR yellow] Episodio[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
 <fanart>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</fanart>
 <thumbnail>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</thumbnail>
@@ -161,11 +162,11 @@ http://pastebin.com/raw/P68UFMN4
 
 
 <item>
-<title>[COLOR red]* [/COLOR][COLOR red] 123 [/COLOR]</title>
+<title>[COLOR skyblue]_**_ [/COLOR][COLOR orange] BASE JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/BAsejHG55.xml</externallink>	
 </item>
 
 
