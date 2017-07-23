@@ -99,9 +99,9 @@ http://pastebin.com/raw/P68UFMN4
 
 
 <item>
-   <title>JUEGO DE TRONOS 7</title>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+   <title>[COLOR orange]*JUEGO [/COLOR][COLOR skyblue]DE [/COLOR][COLOR orange]TRONOS [/COLOR][COLOR skyblue]*TEMPORADA 7[/COLOR] </title>
+<fanart>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</fanart>
+<thumbnail>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</thumbnail>
    	<genre>
 
 
@@ -109,10 +109,10 @@ http://pastebin.com/raw/P68UFMN4
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <title>[B][COLOR yellow] Episodio[/COLOR] 1[COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</fanart>
+<thumbnail>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/juan-hinojosa-garcia/series-jhg-77337</page>
