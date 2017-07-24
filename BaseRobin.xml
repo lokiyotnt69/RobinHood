@@ -75,7 +75,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</externallink>
 	</channel>
 
-
+		
+<item>
+<title>[COLOR red]* [/COLOR][COLOR blue] EL  [/COLOR][COLOR red] TAQUILLAZO[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/bGdepI--yRM/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bGdepI--yRM/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/Eltaquillazo.xml</externallink>	
+</item>
+	
 
 	
 
@@ -169,6 +177,32 @@ http://pastebin.com/raw/P68UFMN4
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/BAsejHG55.xml</externallink>	
 </item>
 
+
+
+<item>
+<title>[COLOR red]*GOLEANDO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/GOLEANDOcom.xml</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]*ACESTREAM [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/canalesacestream.xml</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]* [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
