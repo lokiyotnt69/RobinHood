@@ -85,7 +85,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 	
 
-	
+
+
+
+<item>
+<title>[COLOR white][I][B][COLOR yellow]»»[/COLOR]AMARIKANO[COLOR white][I][B][COLOR yellow]TUGA[/COLOR][/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+ <thumbnail>http://i.imgur.com/LpCt4NR.jpg</thumbnail>
+ <fanart>http://i.imgur.com/tkgyJ6v.jpg</fanart>
+<externallink>https://pastebin.com/raw/6Db4UPEa</externallink>
+</item>
+
+
+
+
 
 <item>
 <title>[COLOR red]*TAQUILLAS [/COLOR][COLOR blue] ANTIGUAS [/COLOR]</title>
@@ -150,6 +163,11 @@ http://pastebin.com/raw/P68UFMN4
 
 
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/esp.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR red]* [/COLOR][COLOR red]*SUPERTDTPLUS [/COLOR]</title>
@@ -204,6 +222,12 @@ http://pastebin.com/raw/P68UFMN4
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lightyellow]  [B]Juego de Tronos [/COLOR] [COLOR lightblue]»»» Seccion Especial «««  [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail><fanart></fanart>
+<externallink>http://adryanlist.org/adryan/evento.xml</externallink>
+<info>JUEGO DE TRONOS TEMPORADA 7</info></item>
 
 <item>
 <title>[COLOR red]*LOCURA [/COLOR]</title>
