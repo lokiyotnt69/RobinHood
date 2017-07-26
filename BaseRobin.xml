@@ -97,7 +97,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
+	<item>
+		<title>[COLOR white]+ [/COLOR][COLOR red]EL RINCON DEL LOLO[/COLOR]</title>
+		<link>http://ignorame</link>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
+		<externallink>http://bit.ly/RinconLolo2</externallink>
+	</item>
+	
 
 
 <item>
@@ -151,7 +158,14 @@ http://pastebin.com/raw/P68UFMN4
 </regex>	
 </item>
 
-
+<item>
+		<title>[COLOR white]+ [/COLOR][COLOR red]EL RINCON DEL LOLO[/COLOR]</title>
+		<link>http://ignorame</link>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
+		<externallink>http://bit.ly/RinconLolo2</externallink>
+	</item>
+	
 
 <item>
 <title>[COLOR red]*LA TAQUILLA [/COLOR]</title>
@@ -197,22 +211,6 @@ http://pastebin.com/raw/P68UFMN4
 
 
 
-<item>
-<title>[COLOR red]*GOLEANDO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/GOLEANDOcom.xml</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR red]*ACESTREAM [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/canalesacestream.xml</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR red]* [/COLOR]</title>
@@ -695,13 +693,7 @@ https://pastebin.com/raw/Tdjewjtr
 </item>
 
 
-<item>
-<title>[COLOR  yellow]* [/COLOR][COLOR yellow]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] TOROSTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</thumbnail>
-<fanart>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
-</item>
+
 
 
 <item>
@@ -710,4 +702,40 @@ https://pastebin.com/raw/Tdjewjtr
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
+</item>
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red]*GOLEANDO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/GOLEANDOcom.xml</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]*ACESTREAM [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/canalesacestream.xml</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
 </item>
