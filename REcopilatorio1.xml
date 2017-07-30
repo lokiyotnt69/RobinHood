@@ -79,3 +79,125 @@
 <fanart>---------------BACKGROUND------------</fanart>
 <thumbnail>--------------ICON----------------</thumbnail>
 </item>
+
+
+
+
+<item>
+<title>[COLOR red]Netflix infantil:[/COLOR][COLOR skyblue] Películas de Animación[/COLOR] </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR deepskyblue][makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.espaciomadrid.es/wp-content/uploads/2014/03/pixar-carrusel.jpg</thumbnail>
+		<fanart>http://www.mubis.es/media/users/7286/139907/nuevas-portadas-para-las-peliculas-de-animacion-original.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/animacion-20219/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/animacion-20219/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.espaciomadrid.es/wp-content/uploads/2014/03/pixar-carrusel.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/users/7286/139907/nuevas-portadas-para-las-peliculas-de-animacion-original.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]Netflix infantil:[/COLOR][COLOR skyblue] Películas de Disney[/COLOR] </title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR deepskyblue][makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.seethesights.co.uk/media/1235/e-usbprojects-seethesightsumbraco-seethesiteswebsite-_tmp-thumbs-e0d90ee8-c7c8-4cd7-b215-43a1e844da99.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/s-oOI0feOVo/maxresdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disney-2-el-rockero-32209/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disney-2-el-rockero-32209/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.seethesights.co.uk/media/1235/e-usbprojects-seethesightsumbraco-seethesiteswebsite-_tmp-thumbs-e0d90ee8-c7c8-4cd7-b215-43a1e844da99.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/s-oOI0feOVo/maxresdefault.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]Netflix infantil:[/COLOR][COLOR skyblue] + Películas de Disney[/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR deepskyblue][makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://www.seethesights.co.uk/media/1235/e-usbprojects-seethesightsumbraco-seethesiteswebsite-_tmp-thumbs-e0d90ee8-c7c8-4cd7-b215-43a1e844da99.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/s-oOI0feOVo/maxresdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disneyel-rockero-30020/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-de-walt-disneyel-rockero-30020/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.seethesights.co.uk/media/1235/e-usbprojects-seethesightsumbraco-seethesiteswebsite-_tmp-thumbs-e0d90ee8-c7c8-4cd7-b215-43a1e844da99.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/s-oOI0feOVo/maxresdefault.jpg</fanart>
+</item>
