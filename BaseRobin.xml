@@ -67,13 +67,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
-		<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</externallink>
-	</channel>
+
 
 		
 <item>
@@ -91,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 
 <item>
-<title>[COLOR red]*SPORTDEVIL [/COLOR][COLOR blue] PLUS [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] DIABLO MOVISTAR [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
@@ -100,43 +94,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red]*EVENTOS [/COLOR][COLOR blue] DEPORTIVOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Eventosdeportivos.xml</externallink>	
-</item>
 
 
 
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] TV [/COLOR] [COLOR red] DIGITAL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://media.cubadebate.cu/wp-content/uploads/2013/12/television-digital.jpg</thumbnail>
-<fanart>http://media.cubadebate.cu/wp-content/uploads/2013/12/television-digital.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/baselog.xml</externallink>	
-</item>
  
- 
+
+
  
 <item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime] ACESTREAM[/COLOR].</title>
+<title>[COLOR green]*[/COLOR][COLOR skyblue]xxxx [/COLOR][COLOR lime] [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/canalesacestream.xml</externallink>
-</item>
-
-
- 
-<item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] CINESTRENOS[/COLOR][COLOR lime] TV[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/cinestrenostv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/REcopilatorio1.xml</externallink>
 </item>
  
 <item>
@@ -147,22 +117,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink></externallink>
 </item> 
  
-<item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] DEPORTES(nuevo)[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/deportes.xml</externallink>
-</item> 	
 	
-
-<item>
-<title>[COLOR white][I][B][COLOR yellow]»»[/COLOR]AMARIKANO[COLOR white][I][B][COLOR yellow]TUGA[/COLOR][/I][/B][/COLOR]</title>
-<link>http://ignorame</link>
- <thumbnail>http://i.imgur.com/LpCt4NR.jpg</thumbnail>
- <fanart>http://i.imgur.com/tkgyJ6v.jpg</fanart>
-<externallink>https://pastebin.com/raw/6Db4UPEa</externallink>
-</item>
 
 
 	<item>
