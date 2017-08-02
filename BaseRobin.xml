@@ -141,8 +141,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR green]*[/COLOR][COLOR skyblue]xxxx [/COLOR][COLOR lime] [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://imgur.com/a/r309G</thumbnail>
+<fanart>http://imgur.com/a/r309G</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/REcopilatorio1.xml</externallink>
 </item>
  
