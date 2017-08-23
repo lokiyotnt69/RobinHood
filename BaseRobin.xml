@@ -80,6 +80,100 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 	
 <item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B] SERIES [/B] [/COLOR][COLOR lime](247)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/series_a-z.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B] SERIES INFANTILES [/COLOR][/B][COLOR lime](077)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/series_infantiles.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][/COLOR][COLOR gold][B][/COLOR][/B][COLOR lime][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail>https://github.com/Andorth/atlantis/blob/master/Pics/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]                                          EL VIDEO CLUB[/COLOR][/B]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail>https://github.com/Andorth/atlantis/blob/master/Pics/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B]NOVEDADES [/COLOR][/B][COLOR lime] 2017[/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/cine/novedades.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][/COLOR][COLOR gold][B][/COLOR][/B][COLOR lime][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail>https://github.com/Andorth/atlantis/blob/master/Pics/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]                                   COLECCIONES DE CINE[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail>https://github.com/Andorth/atlantis/blob/master/Pics/icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR orange][/COLOR][COLOR gold][B][/COLOR][/B][COLOR lime][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail>https://github.com/Andorth/atlantis/blob/master/Pics/icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B]VIDEO CLUB[/COLOR] [COLOR white]*ESTRENOS 2017*[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://cines.com/files/2016/06/estrenos-2017-poster-compressor-compressor.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fyOM1AONjyc/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/cine/estrenos2017.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B]VIDEO CLUB[/COLOR] [COLOR white]*ESTRENOS 2016*[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/cine/familiar.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B]VIDEO CLUB *SAGAS FAVORITAS DE CINE*[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/cine/sagas.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR gold][B]CINE INFANTIL[/COLOR][/B][COLOR lime] (453)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>http://www.fondox.net/wallpapers/los-animales-marinos-1187.jpg</fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/Andorth/atlantis/master/cine/cine_infantil.xml</externallink>
+</item>
+	
+	
+	
+<item>
 <title>rew</title>
 <link>$doregex[makelist]</link>
 <regex>
