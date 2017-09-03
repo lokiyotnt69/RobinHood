@@ -79,241 +79,84 @@ http://pastebin.com/raw/8ak6PDNQ
 <thumbnail>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</thumbnail>
 </item>
 
+<item>
+<title>M3U LISTS Updated Daily</title>
+<link>$doregex[makelist2]</link>
 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red][B]AMERIKANO[/B][/COLOR][COLOR green][B]TUGA[/B][/COLOR] LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER [I][COLOR skyblue][makelist.param1][/COLOR][/I]   -  USER [I][COLOR deepskyblue][makelist.param2][/I][/COLOR] </title>
+ <link>NA</link>
+ <thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+
+ 
+
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://i.imgur.com/GAbvzTU.png</thumbnail>
+<fanart>http://i.imgur.com/GAbvzTU.png</fanart>
+<info>AMERIKANOTUGA - Os Links sÃ£o adquiridos atravÃ©s de uma busca livre pela Internet</info>
+</item>
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+		
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] REVANCHA[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/aEEuLFy.jpg</thumbnail>
+<fanart>http://i.imgur.com/aEEuLFy.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/larevancha.xml</externallink>	
+</item> 	
+	
 
 <item>
-<title>[COLOR red]Netflix: [/COLOR][COLOR skyblue]al[/COLOR][COLOR white]fa[/COLOR][COLOR yellow] (CINEFOX)[/COLOR]</title>
+<title>[COLOR red]Netflix: [/COLOR][COLOR skyblue]DI[/COLOR][COLOR white]ABLO[/COLOR][COLOR yellow] (CINEFOX)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkNpbmVmb3giLCAKICAgICJjaGFubmVsIjogImNpbmVmb3giLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjaGFubmVsX2NvbmZpZyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZXR0aW5nIiwgCiAgICAgICAgICAgICJjb25maWciOiAiY2luZWZveCIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJjaW5lZm94IiwgCiAgICAgICAgICAgICJ0aXRsZSI6ICJDb25maWd1cmFyIGNhbmFsIgogICAgICAgIH0KICAgIF0sIAogICAgImZhbmFydCI6ICIiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgImxhbmd1YWdlIjogImVzIiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcanVsZW5cXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcY2luZWZveC5wbmciLCAKICAgICJ0aXRsZSI6ICJDaW5lZm94IiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInZlcnNpb24iOiAxLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
 <thumbnail>http://www.cinefox.tv/static/img/social.png</thumbnail>
 <fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR=white][B]  [COLOR=lime] PPV FREE[/B][/COLOR] </title>
-<link>D</link>   
-  <thumbnail>https://pbs.twimg.com/media/C9Y3R8HW0AUC-Nm.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</item> 
-
-<item>BOXNA
-<title>[COLOR=yellow]                 * [COLOR=yellow]COTTO VS KAMEGAI[COLOR=orange] (sportsdevil)[/COLOR] </title>
- <sportsdevil>http://crichd.sc/update/skysarena.php</sportsdevil>
-<referer>http://crichd.sc</referer>
-<thumbnail>http://i.ebayimg.com/images/i/152650915774-0-1/s-l1000.jpg</thumbnail>
-<fanart>http://www.inentertainment.co.uk/wp-content/uploads/UFC-vs.-Boxing-argument-revisited.jpg</fanart>
-</item>	
-
-
-<item>
-<title>[COLOR=yellow]                 * [COLOR=yellow]MAYWEATHER VS CONOR MCGREGOR[COLOR=orange] (sportsdevil)[/COLOR] ingles</title>
- <sportsdevil>http://crichd.sc/update/skysarena.php</sportsdevil>
-<referer>http://crichd.sc</referer>
-<thumbnail>http://news.mawarriors.com/wp-content/uploads/2017/07/static.enlapelea.comDEGEcQhV0AAhywc-1024x1024-4cf81262d58c0a2c3fc3724c83f7aadf8fb76c8d-938x938.jpg</thumbnail>
-<fanart>http://www.inentertainment.co.uk/wp-content/uploads/UFC-vs.-Boxing-argument-revisited.jpg</fanart>
-</item>	
-
-
-
- <sportsdevil>http://crichd.sc/update/skysarena.php</sportsdevil>
-<referer>http://crichd.sc</referer>
- 
- <portsdevil>http://hdfree.tv/live/ss1.php</sportsdevil>
-<referer>http://hdfree.tv</referer>
-
-<item>
-<title>[COLOR=yellow]                 * [COLOR=yellow]MAYWEATHER Y MCGREGOR[COLOR=orange] (sportsdevil)[/COLOR]</title>
-<sportsdevil>http://crichd.tv/update/bt2.php</sportsdevil>
-   <referer>http://crichd.tv</referer>
-<thumbnail>http://www.fightline.com/wp-content/uploads/2017/06/FC-214-750x340-1496895287.jpg</thumbnail>
-<fanart>http://www.inentertainment.co.uk/wp-content/uploads/UFC-vs.-Boxing-argument-revisited.jpg</fanart>
-</item>	
-
-    	     <item>
-<title>[COLOR=yellow]                 * [COLOR=yellow]Opci/1/500/400</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.janjua.tv</referer>
-</regex>
-<link>$doregex[url]$$lsname=Opcion 3</link>
-<regex>
-	<name>url</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73401',False,False,'http://vipracing.info/',swftoken="E3659cbc80ae2b06bf85cf2b1afee19b")</expres>
-	<page/>
-</regex>
-<thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
- </item>
-
-	 <item>	 
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR khaki][B] Eddie Alvarez - Conor McGregor[/B][/COLOR] BT-SPORT2</title>
-  <sportsdevil>http://mamahd.com/bt-sport-2-live-stream-1.html</sportsdevil>
-<referer>http://mamahd.com</referer>
-  <thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
- </item>
-	  <item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR khaki][B] Eddie Alvarez - Conor McGregor[/B][/COLOR] PLEXUS HD</title>
-	  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: </link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av13</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-	  <thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-  </item>  
-	  	     
-			<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR khaki][B] Eddie Alvarez - Conor McGregor[/B][/COLOR] PLEXUS HD</title>
-	  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: </link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av14</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-	  <thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-  </item>  
-	  
-	  
-	   <item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR khaki][B] Eddie Alvarez - Conor McGregor[/B][/COLOR] PLEXUS HD</title>
-<link>plugin://program.plexus/?url=fda7b070947a5177fce8141757551d194d6e7d1c&amp;mode=1&amp;name=BassFox+Acestreams$$lsname=Opcion 1 Plexus </link>
-  <thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-  </item>
-	  
-	  
-	 <item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Eddie Alvarez - Conor McGregor[/B][/COLOR] BT-SPORT2</title>
-  <sportsdevil>http://streamking.cc/btsport2</sportsdevil>
-<referer>http://streamking.cc</referer>
-  <thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/UFC-205-647x330.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</item>
-  
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] [COLOR green][B]ufclatino[/B][/COLOR] </title>
-<sportsdevil>http://deportesmax.com/?canal=4</sportsdevil>
-<referer>http://maxdeportv.net</referer>	
-     <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-  
-
- 
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] [COLOR green][B]ufclatino[/B][/COLOR] </title>
-<link>http://co.exabytetv.info:8000/live/exabytetv/ERTYDfNbx2/11.m3u8</link>
-<thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-  
-  <item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] [COLOR green][B]ufclatino *[/B][/COLOR] </title>
-<sportsdevil>http://maxdeportv.net/?canal=1</sportsdevil>
-<referer>http://maxdeportv.net</referer>	
-     <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item> 
-  
-
- <item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] </title>
-  <sportsdevil>http://mamahd.com/watch-ufc-live-stream-free-online-1.html</sportsdevil>
-<referer>http://mamahd.com</referer>
-  <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] </title>
-  <link>http://213.163.65.9:8081/live/sportvx/playlist.m3u8</link>
-<thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] </title>
-<sportsdevil>http://zonasports.to/channel.php?id=2</sportsdevil>
-			<referer>http://zonasports.to</referer>
-  <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-  
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] </title>
-<sportsdevil>http://zonasports.to/channel.php?id=4</sportsdevil>
-			<referer>http://zonasports.to</referer>
-  <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
-  
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] </title>
-<sportsdevil>http://zonasports.to/channel.php?id=6</sportsdevil>
-			<referer>http://zonasports.to</referer>
-  <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-</regex>
-  </item>
- 
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] *PLEXUS</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: </link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av14</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-	 <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-	  </item>
-	
-<item>
-<title>[COLOR grey][B]UFC[/B][/COLOR] [COLOR whithe][B] Bisping - Henderson 2[/B][/COLOR] *PLEXUS</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=*BASSFOX: </link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av13</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-	 <thumbnail>http://www.theluxuryboxx.com/wp-content/uploads/2016/04/ufc204-800x430-660x360.jpg</thumbnail>
-<fanart>https://round23blog.files.wordpress.com/2016/01/469896.jpg</fanart>
-	  </item>	
-	  
-	  
-	  
-	  
-<item>
-<title>[COLOR=khaki][B] ***ESTADOS UNIDOS***[/B][/COLOR] [COLOR=orange][B]10PM hora del Este[/B][/COLOR]  </title>
-  <thumbnail>http://suljosblog.com/suljos/wp-content/uploads/2016/02/canelo-khan-art-wbc.jpg</thumbnail>
-<fanart>http://media.publika.md/md/image/201603/oar_full/boxik_34432500.jpg</fanart>
-<link>http://ignoreme</link>
- </item>
-
-<item>
-<title>[COLOR=khaki][B] *** Argentina, Chile, Uruguay y Brasil***[/B][/COLOR] [COLOR=orange][B]17:30hs[/B][/COLOR]</title>
-  <thumbnail>http://suljosblog.com/suljos/wp-content/uploads/2016/02/canelo-khan-art-wbc.jpg</thumbnail>
-<fanart>http://media.publika.md/md/image/201603/oar_full/boxik_34432500.jpg</fanart>
-<link>http://ignoreme</link>
- </item>
-
-		
 <item>
 <title>[COLOR red]* [/COLOR][COLOR blue] EL  [/COLOR][COLOR red] TAQUILLAZO[/COLOR]</title>
 <link>http://Ignoreme</link>
