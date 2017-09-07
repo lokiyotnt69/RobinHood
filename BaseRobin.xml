@@ -71,6 +71,557 @@ http://pastebin.com/raw/8ak6PDNQ
 
 
 
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR orange][makelist.param1] [/COLOR][COLOR orange][makelist.param2] [/COLOR] [COLOR lime][makelist.param3] [/COLOR] [COLOR deepskyblue][makelist.param4] [/COLOR]    [COLOR white] Ver Canal -[/COLOR] [COLOR red][makelist.param6][/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param5][makelist.param7][makelist.param9][makelist.param11]&amp;mode=1&amp;name=LReylist+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,2}>(.*?)<[\w\W\s]{0,60}alt='(.*?)'[\w\W\s]{0,55}br>(.*?)<|[\w\W\s]{0,40}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)[\w\W\s]{0,120}flags/(.*?)png|[\w\W\s]{0,30}acestream://(.*?)"[\w\W\s]{0,120}flags/(.*?)png]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 2 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda</jsonrpc>
+<humbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+----------------------------------- Lifefootballvideo.com P2P Sport -------------------------------------------------------	
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 3 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 4 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR orange] [makelist.param3] [/COLOR][COLOR deepskyblue] [makelist.param2] [makelist.param4][/COLOR] [COLOR lime][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=LReylist</link>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>	
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 5 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR orange][makelist.param1][/COLOR] - [COLOR lime][makelist.param2][/COLOR] - [COLOR deepskyblue][makelist.param3][/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=LReylist+[makelist.param3]+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+ 	
+---------------------------------------------------------------------------------------------------------
+
+
+			
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 6 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR orange][makelist.param1] [makelist.param2] [/COLOR]  [COLOR lime][makelist.param3] [/COLOR]  [COLOR deepskyblue][makelist.param4][makelist.param5] [/COLOR]   [COLOR lime]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+		<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+		<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://www.arenavision.ru/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 7 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR orange][makelist.param1]  [makelist.param2] [/COLOR]  [COLOR deepskyblue][makelist.param4] [makelist.param5] [/COLOR] [COLOR lime]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LRelist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.ga/av[makelist.param6]</page>
+			<referer>http://arenavision2017.ga</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.ga/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.ga</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>	
+
+---------------------------------------------------------------------------------------------------------
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 8 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR orange][makelist.param1]  [makelist.param2] [/COLOR] [COLOR deepskyblue][makelist.param4] [makelist.param5] [/COLOR]   [COLOR lime]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/av[makelist.param6]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+			<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.tk/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 9 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR orange] [makelist.param3] [/COLOR][COLOR deepskyblue] [makelist.param2] [makelist.param4][/COLOR] [COLOR lime][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=LReylist</link>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>	
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 10 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+	<title>[COLOR orange][makelist2.param2][/COLOR]  -  [COLOR deepskyblue][makelist2.param4] [/COLOR]  </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[src="(.*?)"[\w\W\s]{0,15}>(.*?)<[\w\W\s]{0,2}href="(.*?html)">(.*?)<]]></expres>
+<page>http://www.livefootballol.me/live-football-streaming-2016.html</page>
+<agent>Mozilla</agent>
+</regex>
+
+ 
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR orange][makelist.param3][/COLOR]  -  [COLOR deepskyblue][makelist.param1][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[canal]&amp;mode=1&amp;name=LReylist</link>
+<regex>
+<name>canal</name>
+<expres>acestream://(.*)"</expres>
+<page>[makelist.param2]</page>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[td>(.*?)<[\w\W\s]{0,15}href="(.*?html)">(.*?)AceStream]]></expres>
+<page>http://www.livefootballol.me[makelist2.param3]</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>	
+
+
+
+----------------------------------- Lifefootballvideo.com Castaway-------------------------------------------------------	
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 11 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.castaway/?mode=open_live_sport&amp;site=livefootballvideo</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+---------------------------------- Lifefootball.ws sportsdevil -------------------------------------------------------	
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 12 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3DLiveFootball.ws%26url%3Dlivesports%252Flivefootball.ws.cfg%26definedIn%3Dlivesports.cfg%26director%3DLivefootball.ws%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivefootballws.jpg&amp;mode=1</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+---------------------------------- Livetv.ru sportsdevil -------------------------------------------------------	
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 13 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=count.tmp%3D59%26title.tmp%3DFootball%26ticon.tmp%3D%252F%252Fcdn.livetvcdn.net%252Fimg%252Fsport%252F1.gif%26url%3Dhttp%253A%252F%252Flivetv123.net%252Fenx%252Fallupcomingsports%252F1%252F%26cfg%3Dlivetv.ru.videos.cfg%2540CATEGORY%25401%26definedIn%3Dlivesports%252Flivetv.ru.cfg%26director%3DLiveTV.ru%26id.tmp%3D1%26referer%3Dhttp%253A%252F%252Flivetv123.net%252Fen%252Fallupcoming%26genre%3DLive%2BSports%26title%3DFootball%2B%252859%2529%26icon.tmp%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png%26type%3Drss%26icon%3DC%253A%255CUsers%255CLorenzo%2BRey%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Csports%252FFootball.png&amp;mode=1</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>
+
+
+
+
+
+----------------------------------- Canales acestream Exabyte -------------------------------------------------------	
+
+
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES 14 (Acestream) [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.exabytetv/?mode=17&amp;regexs=%7Bu%27makelist%27%3A%20%7B%27listrepeat%27%3A%20u%27%5Cn%3Citem%3E%3Ctitle%3E%5Bmakelist.param4%5D-%5BCOLOR%20gold%5D%5Bmakelist.param1%5D%5B%2FCOLOR%5D%20%5BCOLOR%20lightblue%5D%5Bmakelist.param2%5D%5B%2FCOLOR%5D%20%5BCOLOR%20tomato%5D%5Bmakelist.param3%5D%5B%2FCOLOR%5D%3C%2Ftitle%3E%5Cn%3Clink%3Eplugin%3A%2F%2Fprogram.plexus%2F%3Furl%3D%5Bmakelist.param5%5D%26amp%3Bmode%3D1%26amp%3Bname%3DExabyteTV%2B%5Bmakelist.param3%5D%2BArenavision%3C%2Flink%3E%5Cn%3Cthumbnail%3Ehttp%3A%2F%2Fexabytetv.info%2Fimg%2Ficon.png%3C%2Fthumbnail%3E%5Cn%3Cfanart%3Ehttp%3A%2F%2Fexabytetv.info%2Fimg%2Ffanart.jpg%3C%2Ffanart%3E%5Cn%3C%2Fitem%3E%20%5Cn%27%2C%20%27expres%27%3A%20u%27center%5C%27%3E(.%2A%3F)%3C%5B%5C%5Cw%5C%5CW%5C%5Cs%5D%7B0%2C120%7D%3Ctd%3E(.%2A%3F)%3Cbr%3E(.%2A%3F)%3C%5B%5C%5Cw%5C%5CW%5C%5Cs%5D%7B0%2C40%7Dacestream%3A%2F%2F.%2A%3F%22%5B%5C%5Cw%5C%5CW%5C%5Cs%5D%7B0%2C220%7D(AV.%2A%3F)%3C%2Fa%3E%3Ca%20href%3D%22acestream%3A%2F%2F(.%2A%3F)%22%27%2C%20%27name%27%3A%20u%27makelist%27%2C%20%27agent%27%3A%20u%27Mozilla%27%2C%20%27page%27%3A%20u%27https%3A%2F%2Favezy.tk%2F%27%7D%7D&amp;url=%24doregex%5Bmakelist%5D</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>https://i.imgur.com/ES9VYZ5.jpg</fanart>
+</item>	
+
+
+
+
+-------------------------------------------------------------------
+
+
+<channel>
+<name>[COLOR lime][B]TodoDeportes[/B][/COLOR] </name>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR lime][B]TodoDeportes[/B][/COLOR] </title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+------------------------------------------------------------------------------------------------
+
+
+<channel>
+<name>[COLOR lime][B]TodoFutbol[/B][/COLOR][COLOR orange][I] [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR]</name>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart
+
+
+
+<item>
+<title>[COLOR lime][B]TodoFutbol[/B][/COLOR][COLOR orange][I] [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR] </title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.laliga</jsonrpc>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+------------------------------------------------------------------------------------------------
+
+
+
+
+<channel>
+<name>[COLOR lime][B]La Liga [/B][/COLOR][COLOR orange][I](LFP) [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR]</name>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart
+
+
+
+<item>
+<title>[COLOR lime][B]La Liga [/B][/COLOR][COLOR orange][I](LFP) [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR] </title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.LFP</jsonrpc>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+------------------------------------------------------------------------------------------------
+
+
+
+<channel>
+<name>[COLOR lime][B]Arena Sports [/B][/COLOR][COLOR orange][I] [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR]</name>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart
+
+
+
+<item>
+<title>[COLOR lime][B]Arena Sports [/B][/COLOR][COLOR orange][I] [/COLOR][COLOR violet](Actualizado 31-08-2017)[/I][/COLOR] </title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ArenaSports</jsonrpc>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+------------------------------------------------------------------------------------------------
+
+
+
+
+
+<channel>
+<name>[COLOR lime][B]Canales directos Acestream [/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+ 
+ 
+
+<item>
+<title>[COLOR lime][B]Canales Deportivos Acestream[/B][/COLOR][COLOR violet][I] plexus [/I][/COLOR]</title>
+			<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][I][makelist.param2] [/I][/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+
+
+ <item>
+<title>[COLOR lime][B]Canales extrangeros Acestream:[/B][/COLOR][COLOR orange] Op.1[/COLOR] [COLOR violet][I] (Actualizado 17-05-2017) [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+----------------------------------------------------------------
+
+<item>
+<title>[COLOR lime][B]Canales Arenavision Acestream:[/B][COLOR orange] Op.2[/COLOR][/COLOR] [COLOR violet][I]Plexus[/I][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/pciojegbimji7ec/Arenavision%20Plexus.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+----------------------------------------------------------------
+
+
+<item>
+<title>[COLOR lime][B]Canales Arenavision Acestream:[/B][COLOR orange] Op.3[/COLOR][/COLOR] [COLOR violet][I] P2P-Stream [/I][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/idylkcyktev4me1/arenavision%20P2p-Stream.html?dl=0</externallink>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+----------------------------------------------------------------
+
+
+
+<item>
+<title>[COLOR lime][B]Canales Arenavision Acestream:[/B][COLOR orange] Op.4[/COLOR][/COLOR][COLOR violet][I]Plexus[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR yellow][makelist.param2][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LReylist+[makelist.param2]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/[makelist.param1]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(a.*?)">(.*?)<]]></expres>
+<page>http://arenavision.in/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<thumbnail>http://i.imgur.com/CiAVX79.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+----------------------------------- Torrent TV deportes a la carta-------------------------------------------------------	
+
+ <item>
+<title>[COLOR lime][B]Canales extrangeros Acestream:[/B][/COLOR][COLOR orange] Op.5[/COLOR] [COLOR violet][I] (Actualizado 17-05-2017) [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJsaXN0YTIiLCAKICAgICJjYXRlZ29yeSI6ICJkZXBvcnQiLCAKICAgICJjaGFubmVsIjogInRvcnJlbnR0diIsIAogICAgImZhbmFydCI6ICIiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgImxhbmd1YWdlIjogImVzIiwgCiAgICAidGh1bWJuYWlsIjogImh0dHA6Ly90dWNoa2F0di5ydS90ZW1wbGF0ZXMvVHVjaGthVFYvaW1hZ2VzL2xvZ28ucG5nIiwgCiAgICAidGl0bGUiOiAiTGlzdGEgMiAoVHVjaGthdHYpIiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInVybCI6ICJodHRwOi8vdHVjaGthdHYucnUvc3BvcnRpdm55ZS8iLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+ <item>
+<title>[COLOR lime][B]Canales extrangeros Acestream:[/B][/COLOR][COLOR orange] Op.6[/COLOR] [COLOR violet][I] (Actualizado 17-05-2017) [/I][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJsaXN0YTQiLCAKICAgICJjYXRlZ29yeSI6ICJkZXBvcnQiLCAKICAgICJjaGFubmVsIjogInRvcnJlbnR0diIsIAogICAgImZhbmFydCI6ICIiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgImxhbmd1YWdlIjogImVzIiwgCiAgICAidGh1bWJuYWlsIjogImh0dHA6Ly9zNi5wb3N0aW1nLm9yZy9nM3QzcGl3ZXAvdG9ycmVudHR2bG9nby5wbmciLCAKICAgICJ0aXRsZSI6ICJMaXN0YSA0IChUb3JyZW50LXR2LmdyKSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ1cmwiOiAiaHR0cDovL3d3dy50b3JyZW50LXR2LmdyL3Nwb3J0LnBocCIsIAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3D</jsonrpc>
+<thumbnail>https://i.imgur.com/ES9VYZ5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>	
+	
+
+
+
+
+
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+
  <item>
 <title>[COLOR red]* [/COLOR][COLOR red]*1.0[/COLOR]</title>
 <link>http://MENU.me</link>
