@@ -72,6 +72,15 @@ http://pastebin.com/raw/8ak6PDNQ
 
 
 <item>
+ <title>[COLOR red]* [/COLOR][COLOR blue] PELIS [/COLOR][COLOR red] A  [/COLOR][COLOR red]* [/COLOR][COLOR blue] LA [/COLOR][COLOR red]  CARTA [/COLOR] </title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
+<thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>[COLOR red]*JHG [/COLOR][COLOR blue] PLUS [/COLOR][COLOR red]  MOVISTAR [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
