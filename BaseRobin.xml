@@ -136,11 +136,30 @@ http://pastebin.com/raw/8ak6PDNQ
 
 
 <item>
-<title>[COLOR red]* [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] VIDEOCLUB [/COLOR][COLOR red] DIABLO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
+ 
+ 
+
+<item>
+<title>[COLOR red]* [/COLOR][COLOR blue] DIABLO [/COLOR][COLOR red]  SAGAS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
+	
+
+<item>
+<title>[COLOR red]*nnn [/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <fanart></fanart>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/NOvedadesgrandes.xml</thumbnail>
 </item>
 
 
