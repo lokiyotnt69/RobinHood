@@ -1072,46 +1072,6 @@ http://pastebin.com/raw/8ak6PDNQ
 
 
 
-<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES RETRO[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
-	</channel>
-
-
-
-[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]
- 
- 
-
-<item>
-<title>[COLOR white]*JHG [/COLOR][COLOR white] CINEFLIX [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
-<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] VIDEOCLUB[/COLOR] [COLOR red] JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
-<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
-</item>
-
-
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]**MASTER SPORTS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/DEPORTEMANIAJULIO2017/master/basedeportesjulio.xml</externallink>
-	</channel>
-	
-
  
 <item>
 <title>[COLOR red] * [/COLOR][COLOR yellow] ESTRENOS(En reformas)[/COLOR] [COLOR red] HD [/COLOR]</title>
@@ -3859,677 +3819,6 @@ https://pastebin.com/raw/Tdjewjtr
 
 
 
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LOS MERCENARIOS[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-OFWNo_-DKVw/WVgpITT9e-I/AAAAAAAAFAQ/LAtzyQjNUwkllaKQlezydxdcsMIOiWzWgCLcBGAs/s1600/mercenarios.jpg</thumbnail>
-<fanart>http://fotos.subefotos.com/49ec58e6bd5501d89ae3b9d68eaec154o.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/fDLq9qbB</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]xXx[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-nZt4sB8nFmY/WVgpYpu6e-I/AAAAAAAAFAc/yu53hOzHmB4ePPKTKD5QUnYBMbO4OlyVQCLcBGAs/s1600/triple%2Bxxx.jpg</thumbnail>
-<fanart>http://newcinema.es/imagenes/2016/02/xXxBanner-rodaje-regreso-xander-cage.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/KGP2ViB5</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BLANCANIEVES[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-nFxCV2I3Bco/WVgpPZin30I/AAAAAAAAFAU/PQZhZX5uqDwswlARdWPac68F6kWoPiMLwCLcBGAs/s1600/Primer-trailer-de-Blancanieves-y-la-leyenda-del-cazador_landscape.jpg</thumbnail>
-<fanart>http://i.bssl.es/elbloginfantil/2016/04/el-cazador-y-la-reina-del-hielo.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/pQj8bBme</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LOS CAZAFANTASMAS[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-YWZdgk1NWTY/WVgpsYVAk_I/AAAAAAAAFAs/wN7o95aIEEgzFo_UewzCRTLw6tG8JQVHwCLcBGAs/s1600/e6u3IrN.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-LqDy8jNlmrs/T4N4zDBDC0I/AAAAAAAABrk/V8MN6xVsXsc/w1200-h630-p-k-no-nu/wallpaper_hd_ghostbusters_cazafantasmas.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/mujRBZ3N</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL SEÑOR DE LOS ANILLOS[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-ZyY5XRsv0-Y/WVgp2ZY-OII/AAAAAAAAFA0/0J9WWZnwAAU8g4AMDdoEdE1iGGr2gv3YgCLcBGAs/s1600/el%2Bse%25C3%25B1or%2Bde%2Blos%2Banillos.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/--YWUjnKXX2s/UMd09W0TuPI/AAAAAAAAC8I/2l4VHkosOkc/s1600/el+se%25C3%25B1or+de+los+anillos.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/MkdePtGV</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL HOBBIT[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-8Sa_gKakMjk/WVgp6VxEQcI/AAAAAAAAFA4/0zaV044S1yErYaPpV15j6nf3Rxa_pQpywCLcBGAs/s1600/elhobbitrilogia8.jpg</thumbnail>
-<fanart>http://www.ojocritico.com/wp-content/uploads/2014/12/elhobbitrilogia8.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/Xh28tQun</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]RAMBO[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-bBNlIKYSEX4/WVgpod6W2tI/AAAAAAAAFAo/QdcS7G_RAXglbbA7fc9T48e5BFOOCneugCLcBGAs/s1600/DVD_movie_icon_pack_20_by_globalcinema.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-K-HXIsUoAgI/VCG-7gZ8jHI/AAAAAAAALxs/RbhJPH9Gbtk/s1600/DVD_movie_icon_pack_20_by_globalcinema.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/nwNqCtCf</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]ROCKY[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-AgpNOAlqxD8/WVgp_HvIy5I/AAAAAAAAFA8/H0HviEOqqRkKyGa7PAJ5W6tkQrbFubePgCLcBGAs/s1600/Primer-trailer-de-Blancanieves-y-la-leyenda-del-cazador_landscape.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-drkEJDOzXHg/UOS-_2vZu9I/AAAAAAAAhuU/mgPSH3J2BfI/s1600/rocky.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/42z1bR7N</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]CONAN[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-lzNHQfnnRW0/WVgpkTMDsOI/AAAAAAAAFAk/1nYipmjnS98fI-NAS34pnJSGLTXeO_GPQCLcBGAs/s1600/Conan-01.jpg</thumbnail>
-<fanart>http://lasoga.org/wp-content/uploads/2014/10/Conan-01.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/n62vjvzh</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE PUNISHER[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-iVQ8MhmeURs/WVgqEHPkj3I/AAAAAAAAFBA/fgQjtuJczKsfBOHbts3qofj1FNgRe-bTgCLcBGAs/s1600/punisher-logo-netflix-original-series-feat.jpg</thumbnail>
-<fanart>https://cinefilia.files.wordpress.com/2016/04/punisher-logo-netflix-original-series-feat.jpg?w=900</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/EARPWhq6</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]PIRATAS DEL CARIBE[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-ZsbHEp0qPIs/WVgpfUztH5I/AAAAAAAAFAg/uc1bpxk8lEgqMyuWDRkqEd7hgJcXzuGawCLcBGAs/s1600/4556295_640px.jpg</thumbnail>
-<fanart>http://st-listas.20minutos.es/images/2014-10/388583/4556295_640px.jpg?1416853755</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/MTE6isPU</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LA MOMIA[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-f7_NKtut2pE/WVgqID7QiUI/AAAAAAAAFBE/9F6eOfWx0gYzXLKcdzSE4v-VgYJ-Z00gQCLcBGAs/s1600/que-pelicula-de-la-saga-la-momia-te-gusta-mas-original.jpg</thumbnail>
-<fanart>http://www.mubis.es/media/users/3724/27707/que-pelicula-de-la-saga-la-momia-te-gusta-mas-original.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/E7n8iA5g</externallink>
-</channel>
-  
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BLADE [/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-kHUXmkOgQWY/WVgpyO0SR4I/AAAAAAAAFAw/yyNUMUFqs4Yw1jK8RpzC3GFLs9AF1QXpwCLcBGAs/s1600/ec6e4c66e31e3f5a6cf60b79c14e280073d6513f.jpg</thumbnail>
-<fanart>http://www.mubis.es/media/users/553/40643/cual-os-gusto-mas-de-la-saga-blade-original.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/Q3Bq7jMD</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]A TODO GAS[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-VyKK5N_T-tI/WVgyTdrl6MI/AAAAAAAAFBw/Sm2bTeUG8IUbSxecXIwfxMuatZKfFlXHACLcBGAs/s1600/saga-a-todo-gas-fast-furious-1-8.jpg</thumbnail>
-<fanart>https://underbrain.com/wp-content/uploads/saga-a-todo-gas-fast-furious-1-8.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/V3M9VUNP</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL PLANETA DE LOS SIMIOS[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-xaWCoULGC3U/WVgyKMaXGOI/AAAAAAAAFBo/cS45lmUSLgQ1_tzr_E2I67C1n8M4XiMZwCLcBGAs/s1600/plan2.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-pIEnIYFHD2E/VNuBUsSrIVI/AAAAAAAAA5I/muHBhtjzETw/s1600/plan2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/6djKiaZS</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]TRANSPORTER[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-5M8RY-NLIQI/WVgycskuhhI/AAAAAAAAFB4/4vR-Ghr8j1oIjKSkLvbjd44dvq1rU92ZwCLcBGAs/s1600/transporter%2Btrilogy.jpg</thumbnail>
-<fanart>http://www.plateabastarda.com/sites/default/files/transporter%20trilogy.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/ci9jihQQ</externallink>
-</channel>
-  
-
-<channels>
-
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL PADRINO[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-PbBL9EAOL7I/WVgyznwhbwI/AAAAAAAAFB8/rUDhbTUcOEov1lnJTOp3hU3-P7eOsudEgCLcBGAs/s1600/el%2Bpadrino%2B%25C3%25A9pico.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-cQmKDc9g93s/UGHSUTPUySI/AAAAAAAAGME/uAl9QoEBkXY/s1600/el+padrino+%C3%A9pico.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/xJ0rpE2i</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL CORREDOR DEL LABERINTO[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-5EqmC5cXR-s/WVgxqMAZ7pI/AAAAAAAAFBQ/kFVg1qq7uqwIFPt3UbtqjQgj1pqtti5KwCLcBGAs/s1600/1-pelicula-el-corredor-del-laberinto-trabalibros.jpg</thumbnail>
-<fanart>http://trabalibros.com/rs/9367/e9c4455d-a317-4f4c-9f70-108d736bae98/f0f/filename/1-pelicula-el-corredor-del-laberinto-trabalibros.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/SCz6bpxQ</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL HOMBRE SIN SOMBRA[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-cxYLMHKdLAU/WVgx4YGWCdI/AAAAAAAAFBc/cbjt2UXR2i00SZCGg98W_ahupESR8lOdQCLcBGAs/s1600/300092_full.jpg</thumbnail>
-<fanart>http://jonistravelling.com/wp-content/uploads/2014/09/300092_full.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/9sST9Xeu</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]MANDÍBULAS[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-jV6ojKO1p68/WVgyFTqw3XI/AAAAAAAAFBk/H6_E206iBnQQC5IYi9l5cZU8zzS494FmgCLcBGAs/s1600/peliculas.10157.IMAGEN3.jpg</thumbnail>
-<fanart>http://dreamers.com/indices/imagenes/peliculas.10157.IMAGEN3.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/xQXxSh3b</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]VENGANZA[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-VQPIguqWXw4/WVgxzj_CEvI/AAAAAAAAFBY/zXmYkfUwIOAde_zawadPHp_0_n2gvVmSQCLcBGAs/s1600/71FkKAetTFL._SL1128_.jpg</thumbnail>
-<fanart>http://www.bolsamania.com/cine/wp-content/uploads/2016/12/61-1-600x310.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/Y2FKUsqk</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]ROBOCOP[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-UMafaVNNM-8/WVgyO89ui6I/AAAAAAAAFBs/Sewyo3La1h8tGk512mvsZHc22UQfYlMzQCLcBGAs/s1600/RoboCop-est-de-retour-le-12-fevrier-2014_portrait_w858.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-WTsC_HV2qKM/Ui3QNJ1DrGI/AAAAAAAABAM/lchIwfJfjmk/s1600/logorobo.jpeg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/ERcjcR8v</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BUD SPENCER Y TERENCE HILL[/COLOR]</name>
-  <fanart>https://dl.dropbox.com/s/1ijrr6ilp8s3moi/1280x720-SFQ.jpg</fanart>
-<thumbnail>https://2.bp.blogspot.com/-WuHzgmDHBvg/WVgxvPDx2fI/AAAAAAAAFBU/7pGlOG4sBPQmxGX52zmVSkp_4pFU8yIXACLcBGAs/s1600/6ed6j7.jpg</thumbnail> 
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/rTBz2sTT</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]MEN IN BLACK[/COLOR]</name>
-  <fanart>https://dl.dropbox.com/s/fr4wie663cm08bh/Men_in_Black_3_FINAL_PACK.png</fanart>
-<thumbnail>https://3.bp.blogspot.com/-zXZJpIq7OX0/WVgx-8iJqjI/AAAAAAAAFBg/tVtbsNaQfTgL188n6j0CuWzJ3Bq_T7ROwCLcBGAs/s1600/men_in_black_012.jpg</thumbnail>       
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/yivkX2Tt</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]REGRESO AL FUTURO[/COLOR]</name>
-  <fanart>https://dl.dropbox.com/s/j16m7sl2d7ezfz4/Back-to-the-Future-Marty-McFly.jpg</fanart>
-<thumbnail>https://4.bp.blogspot.com/-7k5H7xWBCe0/WVgyYsYa9iI/AAAAAAAAFB0/DW9zwehn9VExmELGkP_LgDVEGBk88hfqACLcBGAs/s1600/the-back-to-the-future-trilogy-original2.jpg</thumbnail>        
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/fB7MVddV</externallink>
-</channel>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]HARRY POTTER[/COLOR]</name>
-  <fanart>http://i.imgur.com/8mmtOZB.jpg</fanart>
-<thumbnail>https://1.bp.blogspot.com/-irseo9Qt2dg/WV6EHW2saVI/AAAAAAAAFFU/bRoKCVIBASgrzaZTUfoiTUNoLFg_mQ12gCLcBGAs/s1600/a-saga-harry-potter.jpg</thumbnail>        
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/xDwVJQCM</externallink>
-</channel>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]JAME BOND 007[/COLOR]</name>
-  <fanart>http://staticvosf5a.lavozdelinterior.com.ar/sites/default/files/styles/landscape_1020_560/public/nota_periodistica/james_bond_007_0.jpg</fanart>
-<thumbnail>https://3.bp.blogspot.com/-5SLiMqaZtW0/WWKrh8ILa3I/AAAAAAAAFGY/-HRH1GPQuOwfu_6_-571n28XiyDS_nnkACLcBGAs/s1600/james%2Bb.jpg</thumbnail>        
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/TpEJWU01</externallink>
-</channel>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]WISHMASTER[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-7ofwCCQVBIo/WXOdzPQuKiI/AAAAAAAAFNk/DpU1PTRjeegDU-VOv8a_oks6wnBH9dZIgCLcBGAs/s1600/wishmaster-blu.jpg</thumbnail>
-<fanart>http://cinemalamorte.es/wp-content/uploads/2017/01/wishmaster-blu.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/dQdRkAkS</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]SAW[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-yJUqz8_Ut_w/WXOdXKnNaMI/AAAAAAAAFNQ/6hCMdnuih9kpUnk0X-VoTbf2zAOjetlMwCLcBGAs/s1600/33111.jpg</thumbnail>
-<fanart>https://underbrain.com/wp-content/uploads/saw-saga.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/zgrvRn4V</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL EXORCISTA[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-gtyCvaAzW9I/WXOduXltQFI/AAAAAAAAFNg/XnSiXwz9un8xZ8g5KqOsTgtF2Yq2jN-nACLcBGAs/s1600/Vr1BOJU.jpg</thumbnail>
-<fanart>http://marcianosmx.com/wp-content/uploads/2015/08/saga-peliculas-el-exorcista.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/PFfztt9p</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE RING[/COLOR]</name>
-  <thumbnail>https://1.bp.blogspot.com/-WbOMzD24x-o/WXOdnCoev4I/AAAAAAAAFNc/EdimBJVP5UkruDq8ts2Nc-66YUaS6zmwgCLcBGAs/s1600/ubg_ring13.jpg</thumbnail>
-<fanart>http://cinescopia.com/wp-content/uploads/2017/02/ubg_ring13.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/44KQvQnF</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE PURGE[/COLOR]</name>
-  <thumbnail>https://3.bp.blogspot.com/-eq5Kk1Kflmk/WXOdh_Fct1I/AAAAAAAAFNY/I_bPCENneiYDAoqfyxQtm7v5NO6fhG6eACLcBGAs/s1600/The-Purge-Anarchy.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-c1_IVL542kM/U78MWFooWhI/AAAAAAABA1c/G9rCGdz9bLg/s1600/The-Purge-Anarchy.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/cngU9KjQ</externallink>
-</channel>
- 
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]DESTINO FINAL[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-V76dLXx3BLA/WXOdb9sDzZI/AAAAAAAAFNU/oOwGC4pTwTI4kqB471SejjwiPYnlNwvcACLcBGAs/s1600/saga%2Bdestino%2Bfinal.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/OxbCHOOitI0/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/i7frCksb</externallink>
-</channel>
-  
-
-<channels>
- 
-<channel>
-      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EXPEDIENTE WARREN[/COLOR]</name>
-  <thumbnail>https://2.bp.blogspot.com/-RPqWaR5mF2I/WXOdQ2lgASI/AAAAAAAAFNM/QGSXgi9aPhceRCmGCdOZmxGEJtnFY0UdwCLcBGAs/s1600/6X43%2BEXPEDIENTE%2BWARREN%2Bsaga.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-oyHc6vQoOJ4/V2iy27nUPzI/AAAAAAAAB2Y/kRo_bdyDERgtkB-GG2_bzOjONEJSeqtCACLcB/s1600/6X43%2BEXPEDIENTE%2BWARREN%2Bsaga.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/AexGYeXJ</externallink>
-</channel>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA MORTADELO Y FILEMÓN[/COLOR]</name>
-  <thumbnail>https://www.ionlitio.com/images/2014/05/mortadelo-y-filemon-peliculas.jpg</thumbnail>
-<fanart>https://www.ionlitio.com/images/2014/05/mortadelo-y-filemon-peliculas.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/rs2e5z9t</externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA MALDITOS VECINOS[/COLOR]</name>
-  <thumbnail>http://www.games4u.es/wp-content/uploads/2014/05/malditos-vecinos.jpg</thumbnail>
-<fanart>http://www.games4u.es/wp-content/uploads/2014/05/malditos-vecinos.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/kA7vdK9L</externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA JACKASS[/COLOR]</name>
-  <thumbnail>http://cdn3.upsocl.com/wp-content/uploads/2016/05/jackass-3d-la-pelicula-2.jpg</thumbnail>
-<fanart>http://cdn3.upsocl.com/wp-content/uploads/2016/05/jackass-3d-la-pelicula-2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/ah8QF5qR</externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA ANDRES PAJARES Y FERNANDO ESTESO[/COLOR]</name>
-  <thumbnail>https://dl.dropbox.com/s/0swt6f7czv51wd4/PAJARES%20Y%20ESTESO.jpg</thumbnail>
-<fanart>https://dl.dropbox.com/s/rh524nqj2hy5a93/Frontal%20el%20descacharrante%20cine%20de%20Pajares%20y%20Esteso..jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/HfAA3UjN</externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
-
-
-
-
-
-<item>
-<title>[COLOR red]*GOLEANDO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/GOLEANDOcom.xml</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR red]*ACESTREAM [/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/97wHMvKw</externallink>
-<fanart></fanart>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA TOY STORY</name>
-  <thumbnail>http://i.imgur.com/ueMCf.jpg</thumbnail>
-<fanart>http://2.bp.blogspot.com/_HTgTj0aEriw/S7xfdcPuGEI/AAAAAAAADek/tQRV5F7Jokw/s1600/toy+story+3+personajes.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/wMpNe1Y4</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA LOS PITUFOS</name>
-  <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/3349000/3349987/los-pitufos-puzzle-02-356x535.jpg</thumbnail>
-<fanart>http://portal.andina.com.pe/EDPfotografia3/Thumbnail/2017/04/30/000419214W.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/W2AMVyBM</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA FROZEN</name>
-  <thumbnail>https://images-0.wuaki.tv/system/artworks/4444/master/frozen-el-reino-del-hielo-1480330062.jpeg</thumbnail>
-<fanart>http://www.festinfo.es/wp-content/uploads/2016/01/zfestinfoB.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/WsB6zknX</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA RAPUNZEL</name>
-  <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/47/b1/47/47b147b6d88fea4bcd32344251784b24--rapunzel-edits-disney-rapunzel.jpg</thumbnail>
-<fanart>http://los40es00.epimg.net/los40/imagenes/2017/01/17/cinetv/1484656317_602673_1484656502_noticia_normal.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/j5dUR9HN</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA HOTEL TRANSILVANIA</name>
-  <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/db/8c/e2/db8ce2a732c4a37c70961046226cf7d0.jpg</thumbnail>
-<fanart>http://3.bp.blogspot.com/-7oBMxFA1EZ8/Vlg4ewuwv2I/AAAAAAAAYHM/3BU7pMCL0V8/s1600/60505_hotel-transilvania-2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/TR3FdAq4</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA MONSTRUOS S.A</name>
-  <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/71/4e/b0/714eb0467a86e7e6dc322f6e9d10ae8b.jpg</thumbnail>
-<fanart>http://www.encadenados.org/rdc/images/stories/rashomon/num_69/monstruos-2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/v4rxakvf</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA SHREK</name>
-  <thumbnail>https://goldenfulgore.files.wordpress.com/2014/06/shrek.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/F4qBGpCf4rQ/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/iQSGZnkJ</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA CARS</name>
-  <thumbnail>http://old.adisney.com/peliculas/cars/img/Cars.jpg</thumbnail>
-<fanart>http://www.ecartelera.com/images/noticias/fotos/40000/40024/1.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/XsbWg49b</externallink>
-</channel>
-  </channels>
-
-
-
-<channels>
- 
-<channel>
-      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA CÓMO ENTRENAR A TU DRAGÓN</name>
-  <thumbnail>http://1.bp.blogspot.com/--4zZztDr4tM/Ud2iScx1rfI/AAAAAAAAAao/lzd1X5XjiTU/s1600/COMO+ENTRENAR+A+TU+DRAGON+-+TERMINADO+-+y+marca+de+agua.jpg</thumbnail>
-<fanart>http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/12/como-entrenar-tu-dragon.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/c4mgEF6F</externallink>
-</channel>
-  </channels>
-
-
-  </channels>
   
 <items>
  
@@ -13583,3 +12872,726 @@ https://pastebin.com/raw/Tdjewjtr
 <thumbnail>https://pics.filmaffinity.com/zipi_y_zape_tv_series-381804857-large.jpg</thumbnail>
   <fanart>http://www.filmotech.com/v2/images/FX_OBRAS/7670/7670_06.jpg<fanart>
 <item>
+
+		
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MANTENIMIENTO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/SYV4FNM.jpg</thumbnail>
+<fanart>http://i.imgur.com/SYV4FNM.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/mantenimiento.xml</externallink>	
+</item> 
+
+<!---------
+
+<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES RETRO[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
+
+
+
+[COLOR green]*ZONA[/COLOR][COLOR skyblue][/COLOR][COLOR lime][/COLOR]
+ 
+ 
+
+<item>
+<title>[COLOR white]*JHG [/COLOR][COLOR white] CINEFLIX [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
+<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] VIDEOCLUB[/COLOR] [COLOR red] JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
+<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
+</item>
+
+
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]**MASTER SPORTS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/DEPORTEMANIAJULIO2017/master/basedeportesjulio.xml</externallink>
+	</channel>
+	
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LOS MERCENARIOS[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-OFWNo_-DKVw/WVgpITT9e-I/AAAAAAAAFAQ/LAtzyQjNUwkllaKQlezydxdcsMIOiWzWgCLcBGAs/s1600/mercenarios.jpg</thumbnail>
+<fanart>http://fotos.subefotos.com/49ec58e6bd5501d89ae3b9d68eaec154o.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/fDLq9qbB</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]xXx[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-nZt4sB8nFmY/WVgpYpu6e-I/AAAAAAAAFAc/yu53hOzHmB4ePPKTKD5QUnYBMbO4OlyVQCLcBGAs/s1600/triple%2Bxxx.jpg</thumbnail>
+<fanart>http://newcinema.es/imagenes/2016/02/xXxBanner-rodaje-regreso-xander-cage.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/KGP2ViB5</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BLANCANIEVES[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-nFxCV2I3Bco/WVgpPZin30I/AAAAAAAAFAU/PQZhZX5uqDwswlARdWPac68F6kWoPiMLwCLcBGAs/s1600/Primer-trailer-de-Blancanieves-y-la-leyenda-del-cazador_landscape.jpg</thumbnail>
+<fanart>http://i.bssl.es/elbloginfantil/2016/04/el-cazador-y-la-reina-del-hielo.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/pQj8bBme</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LOS CAZAFANTASMAS[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-YWZdgk1NWTY/WVgpsYVAk_I/AAAAAAAAFAs/wN7o95aIEEgzFo_UewzCRTLw6tG8JQVHwCLcBGAs/s1600/e6u3IrN.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-LqDy8jNlmrs/T4N4zDBDC0I/AAAAAAAABrk/V8MN6xVsXsc/w1200-h630-p-k-no-nu/wallpaper_hd_ghostbusters_cazafantasmas.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/mujRBZ3N</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL SEÑOR DE LOS ANILLOS[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-ZyY5XRsv0-Y/WVgp2ZY-OII/AAAAAAAAFA0/0J9WWZnwAAU8g4AMDdoEdE1iGGr2gv3YgCLcBGAs/s1600/el%2Bse%25C3%25B1or%2Bde%2Blos%2Banillos.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/--YWUjnKXX2s/UMd09W0TuPI/AAAAAAAAC8I/2l4VHkosOkc/s1600/el+se%25C3%25B1or+de+los+anillos.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/MkdePtGV</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL HOBBIT[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-8Sa_gKakMjk/WVgp6VxEQcI/AAAAAAAAFA4/0zaV044S1yErYaPpV15j6nf3Rxa_pQpywCLcBGAs/s1600/elhobbitrilogia8.jpg</thumbnail>
+<fanart>http://www.ojocritico.com/wp-content/uploads/2014/12/elhobbitrilogia8.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/Xh28tQun</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]RAMBO[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-bBNlIKYSEX4/WVgpod6W2tI/AAAAAAAAFAo/QdcS7G_RAXglbbA7fc9T48e5BFOOCneugCLcBGAs/s1600/DVD_movie_icon_pack_20_by_globalcinema.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-K-HXIsUoAgI/VCG-7gZ8jHI/AAAAAAAALxs/RbhJPH9Gbtk/s1600/DVD_movie_icon_pack_20_by_globalcinema.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/nwNqCtCf</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]ROCKY[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-AgpNOAlqxD8/WVgp_HvIy5I/AAAAAAAAFA8/H0HviEOqqRkKyGa7PAJ5W6tkQrbFubePgCLcBGAs/s1600/Primer-trailer-de-Blancanieves-y-la-leyenda-del-cazador_landscape.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-drkEJDOzXHg/UOS-_2vZu9I/AAAAAAAAhuU/mgPSH3J2BfI/s1600/rocky.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/42z1bR7N</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]CONAN[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-lzNHQfnnRW0/WVgpkTMDsOI/AAAAAAAAFAk/1nYipmjnS98fI-NAS34pnJSGLTXeO_GPQCLcBGAs/s1600/Conan-01.jpg</thumbnail>
+<fanart>http://lasoga.org/wp-content/uploads/2014/10/Conan-01.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/n62vjvzh</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE PUNISHER[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-iVQ8MhmeURs/WVgqEHPkj3I/AAAAAAAAFBA/fgQjtuJczKsfBOHbts3qofj1FNgRe-bTgCLcBGAs/s1600/punisher-logo-netflix-original-series-feat.jpg</thumbnail>
+<fanart>https://cinefilia.files.wordpress.com/2016/04/punisher-logo-netflix-original-series-feat.jpg?w=900</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/EARPWhq6</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]PIRATAS DEL CARIBE[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-ZsbHEp0qPIs/WVgpfUztH5I/AAAAAAAAFAg/uc1bpxk8lEgqMyuWDRkqEd7hgJcXzuGawCLcBGAs/s1600/4556295_640px.jpg</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2014-10/388583/4556295_640px.jpg?1416853755</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/MTE6isPU</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]LA MOMIA[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-f7_NKtut2pE/WVgqID7QiUI/AAAAAAAAFBE/9F6eOfWx0gYzXLKcdzSE4v-VgYJ-Z00gQCLcBGAs/s1600/que-pelicula-de-la-saga-la-momia-te-gusta-mas-original.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/users/3724/27707/que-pelicula-de-la-saga-la-momia-te-gusta-mas-original.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/E7n8iA5g</externallink>
+</channel>
+  
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BLADE [/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-kHUXmkOgQWY/WVgpyO0SR4I/AAAAAAAAFAw/yyNUMUFqs4Yw1jK8RpzC3GFLs9AF1QXpwCLcBGAs/s1600/ec6e4c66e31e3f5a6cf60b79c14e280073d6513f.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/users/553/40643/cual-os-gusto-mas-de-la-saga-blade-original.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/Q3Bq7jMD</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]A TODO GAS[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-VyKK5N_T-tI/WVgyTdrl6MI/AAAAAAAAFBw/Sm2bTeUG8IUbSxecXIwfxMuatZKfFlXHACLcBGAs/s1600/saga-a-todo-gas-fast-furious-1-8.jpg</thumbnail>
+<fanart>https://underbrain.com/wp-content/uploads/saga-a-todo-gas-fast-furious-1-8.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/V3M9VUNP</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL PLANETA DE LOS SIMIOS[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-xaWCoULGC3U/WVgyKMaXGOI/AAAAAAAAFBo/cS45lmUSLgQ1_tzr_E2I67C1n8M4XiMZwCLcBGAs/s1600/plan2.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-pIEnIYFHD2E/VNuBUsSrIVI/AAAAAAAAA5I/muHBhtjzETw/s1600/plan2.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/6djKiaZS</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]TRANSPORTER[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-5M8RY-NLIQI/WVgycskuhhI/AAAAAAAAFB4/4vR-Ghr8j1oIjKSkLvbjd44dvq1rU92ZwCLcBGAs/s1600/transporter%2Btrilogy.jpg</thumbnail>
+<fanart>http://www.plateabastarda.com/sites/default/files/transporter%20trilogy.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/ci9jihQQ</externallink>
+</channel>
+  
+
+<channels>
+
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL PADRINO[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-PbBL9EAOL7I/WVgyznwhbwI/AAAAAAAAFB8/rUDhbTUcOEov1lnJTOp3hU3-P7eOsudEgCLcBGAs/s1600/el%2Bpadrino%2B%25C3%25A9pico.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-cQmKDc9g93s/UGHSUTPUySI/AAAAAAAAGME/uAl9QoEBkXY/s1600/el+padrino+%C3%A9pico.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/xJ0rpE2i</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL CORREDOR DEL LABERINTO[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-5EqmC5cXR-s/WVgxqMAZ7pI/AAAAAAAAFBQ/kFVg1qq7uqwIFPt3UbtqjQgj1pqtti5KwCLcBGAs/s1600/1-pelicula-el-corredor-del-laberinto-trabalibros.jpg</thumbnail>
+<fanart>http://trabalibros.com/rs/9367/e9c4455d-a317-4f4c-9f70-108d736bae98/f0f/filename/1-pelicula-el-corredor-del-laberinto-trabalibros.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/SCz6bpxQ</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL HOMBRE SIN SOMBRA[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-cxYLMHKdLAU/WVgx4YGWCdI/AAAAAAAAFBc/cbjt2UXR2i00SZCGg98W_ahupESR8lOdQCLcBGAs/s1600/300092_full.jpg</thumbnail>
+<fanart>http://jonistravelling.com/wp-content/uploads/2014/09/300092_full.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/9sST9Xeu</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]MANDÍBULAS[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-jV6ojKO1p68/WVgyFTqw3XI/AAAAAAAAFBk/H6_E206iBnQQC5IYi9l5cZU8zzS494FmgCLcBGAs/s1600/peliculas.10157.IMAGEN3.jpg</thumbnail>
+<fanart>http://dreamers.com/indices/imagenes/peliculas.10157.IMAGEN3.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/xQXxSh3b</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]VENGANZA[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-VQPIguqWXw4/WVgxzj_CEvI/AAAAAAAAFBY/zXmYkfUwIOAde_zawadPHp_0_n2gvVmSQCLcBGAs/s1600/71FkKAetTFL._SL1128_.jpg</thumbnail>
+<fanart>http://www.bolsamania.com/cine/wp-content/uploads/2016/12/61-1-600x310.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/Y2FKUsqk</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]ROBOCOP[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-UMafaVNNM-8/WVgyO89ui6I/AAAAAAAAFBs/Sewyo3La1h8tGk512mvsZHc22UQfYlMzQCLcBGAs/s1600/RoboCop-est-de-retour-le-12-fevrier-2014_portrait_w858.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-WTsC_HV2qKM/Ui3QNJ1DrGI/AAAAAAAABAM/lchIwfJfjmk/s1600/logorobo.jpeg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/ERcjcR8v</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]BUD SPENCER Y TERENCE HILL[/COLOR]</name>
+  <fanart>https://dl.dropbox.com/s/1ijrr6ilp8s3moi/1280x720-SFQ.jpg</fanart>
+<thumbnail>https://2.bp.blogspot.com/-WuHzgmDHBvg/WVgxvPDx2fI/AAAAAAAAFBU/7pGlOG4sBPQmxGX52zmVSkp_4pFU8yIXACLcBGAs/s1600/6ed6j7.jpg</thumbnail> 
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/rTBz2sTT</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]MEN IN BLACK[/COLOR]</name>
+  <fanart>https://dl.dropbox.com/s/fr4wie663cm08bh/Men_in_Black_3_FINAL_PACK.png</fanart>
+<thumbnail>https://3.bp.blogspot.com/-zXZJpIq7OX0/WVgx-8iJqjI/AAAAAAAAFBg/tVtbsNaQfTgL188n6j0CuWzJ3Bq_T7ROwCLcBGAs/s1600/men_in_black_012.jpg</thumbnail>       
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/yivkX2Tt</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]REGRESO AL FUTURO[/COLOR]</name>
+  <fanart>https://dl.dropbox.com/s/j16m7sl2d7ezfz4/Back-to-the-Future-Marty-McFly.jpg</fanart>
+<thumbnail>https://4.bp.blogspot.com/-7k5H7xWBCe0/WVgyYsYa9iI/AAAAAAAAFB0/DW9zwehn9VExmELGkP_LgDVEGBk88hfqACLcBGAs/s1600/the-back-to-the-future-trilogy-original2.jpg</thumbnail>        
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/fB7MVddV</externallink>
+</channel>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]HARRY POTTER[/COLOR]</name>
+  <fanart>http://i.imgur.com/8mmtOZB.jpg</fanart>
+<thumbnail>https://1.bp.blogspot.com/-irseo9Qt2dg/WV6EHW2saVI/AAAAAAAAFFU/bRoKCVIBASgrzaZTUfoiTUNoLFg_mQ12gCLcBGAs/s1600/a-saga-harry-potter.jpg</thumbnail>        
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/xDwVJQCM</externallink>
+</channel>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]JAME BOND 007[/COLOR]</name>
+  <fanart>http://staticvosf5a.lavozdelinterior.com.ar/sites/default/files/styles/landscape_1020_560/public/nota_periodistica/james_bond_007_0.jpg</fanart>
+<thumbnail>https://3.bp.blogspot.com/-5SLiMqaZtW0/WWKrh8ILa3I/AAAAAAAAFGY/-HRH1GPQuOwfu_6_-571n28XiyDS_nnkACLcBGAs/s1600/james%2Bb.jpg</thumbnail>        
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/TpEJWU01</externallink>
+</channel>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]WISHMASTER[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-7ofwCCQVBIo/WXOdzPQuKiI/AAAAAAAAFNk/DpU1PTRjeegDU-VOv8a_oks6wnBH9dZIgCLcBGAs/s1600/wishmaster-blu.jpg</thumbnail>
+<fanart>http://cinemalamorte.es/wp-content/uploads/2017/01/wishmaster-blu.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/dQdRkAkS</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]SAW[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-yJUqz8_Ut_w/WXOdXKnNaMI/AAAAAAAAFNQ/6hCMdnuih9kpUnk0X-VoTbf2zAOjetlMwCLcBGAs/s1600/33111.jpg</thumbnail>
+<fanart>https://underbrain.com/wp-content/uploads/saw-saga.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/zgrvRn4V</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EL EXORCISTA[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-gtyCvaAzW9I/WXOduXltQFI/AAAAAAAAFNg/XnSiXwz9un8xZ8g5KqOsTgtF2Yq2jN-nACLcBGAs/s1600/Vr1BOJU.jpg</thumbnail>
+<fanart>http://marcianosmx.com/wp-content/uploads/2015/08/saga-peliculas-el-exorcista.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/PFfztt9p</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE RING[/COLOR]</name>
+  <thumbnail>https://1.bp.blogspot.com/-WbOMzD24x-o/WXOdnCoev4I/AAAAAAAAFNc/EdimBJVP5UkruDq8ts2Nc-66YUaS6zmwgCLcBGAs/s1600/ubg_ring13.jpg</thumbnail>
+<fanart>http://cinescopia.com/wp-content/uploads/2017/02/ubg_ring13.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/44KQvQnF</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]THE PURGE[/COLOR]</name>
+  <thumbnail>https://3.bp.blogspot.com/-eq5Kk1Kflmk/WXOdh_Fct1I/AAAAAAAAFNY/I_bPCENneiYDAoqfyxQtm7v5NO6fhG6eACLcBGAs/s1600/The-Purge-Anarchy.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-c1_IVL542kM/U78MWFooWhI/AAAAAAABA1c/G9rCGdz9bLg/s1600/The-Purge-Anarchy.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/cngU9KjQ</externallink>
+</channel>
+ 
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]DESTINO FINAL[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-V76dLXx3BLA/WXOdb9sDzZI/AAAAAAAAFNU/oOwGC4pTwTI4kqB471SejjwiPYnlNwvcACLcBGAs/s1600/saga%2Bdestino%2Bfinal.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OxbCHOOitI0/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/i7frCksb</externallink>
+</channel>
+  
+
+<channels>
+ 
+<channel>
+      <name>[COLOR yellow][COLOR yellow]  [/COLOR]EXPEDIENTE WARREN[/COLOR]</name>
+  <thumbnail>https://2.bp.blogspot.com/-RPqWaR5mF2I/WXOdQ2lgASI/AAAAAAAAFNM/QGSXgi9aPhceRCmGCdOZmxGEJtnFY0UdwCLcBGAs/s1600/6X43%2BEXPEDIENTE%2BWARREN%2Bsaga.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-oyHc6vQoOJ4/V2iy27nUPzI/AAAAAAAAB2Y/kRo_bdyDERgtkB-GG2_bzOjONEJSeqtCACLcB/s1600/6X43%2BEXPEDIENTE%2BWARREN%2Bsaga.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/AexGYeXJ</externallink>
+</channel>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA MORTADELO Y FILEMÓN[/COLOR]</name>
+  <thumbnail>https://www.ionlitio.com/images/2014/05/mortadelo-y-filemon-peliculas.jpg</thumbnail>
+<fanart>https://www.ionlitio.com/images/2014/05/mortadelo-y-filemon-peliculas.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/rs2e5z9t</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA MALDITOS VECINOS[/COLOR]</name>
+  <thumbnail>http://www.games4u.es/wp-content/uploads/2014/05/malditos-vecinos.jpg</thumbnail>
+<fanart>http://www.games4u.es/wp-content/uploads/2014/05/malditos-vecinos.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/kA7vdK9L</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA JACKASS[/COLOR]</name>
+  <thumbnail>http://cdn3.upsocl.com/wp-content/uploads/2016/05/jackass-3d-la-pelicula-2.jpg</thumbnail>
+<fanart>http://cdn3.upsocl.com/wp-content/uploads/2016/05/jackass-3d-la-pelicula-2.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/ah8QF5qR</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR]SAGA ANDRES PAJARES Y FERNANDO ESTESO[/COLOR]</name>
+  <thumbnail>https://dl.dropbox.com/s/0swt6f7czv51wd4/PAJARES%20Y%20ESTESO.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/rh524nqj2hy5a93/Frontal%20el%20descacharrante%20cine%20de%20Pajares%20y%20Esteso..jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/HfAA3UjN</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR violet][COLOR violet]|•|  [/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+
+
+
+<item>
+<title>[COLOR red]*GOLEANDO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/GOLEANDOcom.xml</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]*ACESTREAM [/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/97wHMvKw</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA TOY STORY</name>
+  <thumbnail>http://i.imgur.com/ueMCf.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/_HTgTj0aEriw/S7xfdcPuGEI/AAAAAAAADek/tQRV5F7Jokw/s1600/toy+story+3+personajes.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/wMpNe1Y4</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA LOS PITUFOS</name>
+  <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/3349000/3349987/los-pitufos-puzzle-02-356x535.jpg</thumbnail>
+<fanart>http://portal.andina.com.pe/EDPfotografia3/Thumbnail/2017/04/30/000419214W.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/W2AMVyBM</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA FROZEN</name>
+  <thumbnail>https://images-0.wuaki.tv/system/artworks/4444/master/frozen-el-reino-del-hielo-1480330062.jpeg</thumbnail>
+<fanart>http://www.festinfo.es/wp-content/uploads/2016/01/zfestinfoB.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/WsB6zknX</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA RAPUNZEL</name>
+  <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/47/b1/47/47b147b6d88fea4bcd32344251784b24--rapunzel-edits-disney-rapunzel.jpg</thumbnail>
+<fanart>http://los40es00.epimg.net/los40/imagenes/2017/01/17/cinetv/1484656317_602673_1484656502_noticia_normal.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/j5dUR9HN</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA HOTEL TRANSILVANIA</name>
+  <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/db/8c/e2/db8ce2a732c4a37c70961046226cf7d0.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-7oBMxFA1EZ8/Vlg4ewuwv2I/AAAAAAAAYHM/3BU7pMCL0V8/s1600/60505_hotel-transilvania-2.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/TR3FdAq4</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA MONSTRUOS S.A</name>
+  <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/71/4e/b0/714eb0467a86e7e6dc322f6e9d10ae8b.jpg</thumbnail>
+<fanart>http://www.encadenados.org/rdc/images/stories/rashomon/num_69/monstruos-2.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/v4rxakvf</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA SHREK</name>
+  <thumbnail>https://goldenfulgore.files.wordpress.com/2014/06/shrek.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F4qBGpCf4rQ/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/iQSGZnkJ</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA CARS</name>
+  <thumbnail>http://old.adisney.com/peliculas/cars/img/Cars.jpg</thumbnail>
+<fanart>http://www.ecartelera.com/images/noticias/fotos/40000/40024/1.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/XsbWg49b</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR skyblue][COLOR skyblue]|•|  [/COLOR]SAGA CÓMO ENTRENAR A TU DRAGÓN</name>
+  <thumbnail>http://1.bp.blogspot.com/--4zZztDr4tM/Ud2iScx1rfI/AAAAAAAAAao/lzd1X5XjiTU/s1600/COMO+ENTRENAR+A+TU+DRAGON+-+TERMINADO+-+y+marca+de+agua.jpg</thumbnail>
+<fanart>http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/12/como-entrenar-tu-dragon.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/c4mgEF6F</externallink>
+</channel>
+  </channels>
+
+
+  </channels>
