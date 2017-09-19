@@ -9,7 +9,13 @@
 </item>
 
 
-http://verdirectotv.com/
+<item>
+<title>[COLOR yellow]Baby Tv[/COLOR] </title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/babytv.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
   
 	 <item>
 		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] BEIN LA LIGA [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
@@ -57,11 +63,11 @@ http://verdirectotv.com/
 
  
 	 <item>
-		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
-		<sportsdevil></sportsdevil>
-		<sportsdevil></sportsdevil>
-		<referer></referer>
-      <thumbnail></thumbnail>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] GRAN HERMANO [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil>
+		<sportsdevil>http://www.verdirectotv.com/ver-gran-hermano-vip-la-casa-en-directo-24-horas/</sportsdevil>
+		<referer>http://www.verdirectotv.com/</referer>
+      <thumbnail>http://verdirectotv.com/logos/ghvip.jpeg</thumbnail>
 </item>
 
 	 <item>
