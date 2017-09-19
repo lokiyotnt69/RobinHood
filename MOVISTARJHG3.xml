@@ -7,7 +7,96 @@
 <title>[COLOR red]* [/COLOR][COLOR blue] ESPERAR [/COLOR][COLOR red]10 SEGUNDOS  [/COLOR]</title>
 <link>http://</link>
 </item>
-http://verdirectotv.com/tv/deportes/motogp.html
+
+
+http://verdirectotv.com/
+  
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] BEIN LA LIGA [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://verdirectotv.com/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
+		<sportsdevil>http://verdirectotv.com/</sportsdevil>
+		<referer></referer>
+      <thumbnail>http://verdirectotv.com/logos/bein-laliga.jpg</thumbnail>
+</item>
+
+ 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] GOLTV [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://verdirectotv.com/ver-goltv-en-directo-y-online-gratis-por-internet/</sportsdevil>
+		<sportsdevil>http://verdirectotv.com/</sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] FORMULA 1 [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://verdirectotv.com/ver-formula-1-en-directo-y-online-f1-en-vivo/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+
+http://verdirectotv.com/
+  
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] MOTOGP [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://verdirectotv.com/ver-motogp-online-y-directo-gratis-por-internet/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+
+ 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------
 			
 				
 				
@@ -157,5 +246,62 @@ http://verdirectotv.com/tv/deportes/motogp.html
             <referer>http://verdirectotv.com/</referer>
             <thumbnail></thumbnail>
             </item>	
+			-----------------------------------------------------------------
+			<item>
+<title>[COLOR=red] [COLOR=white] TCS CASTELLÓN [COLOR=darkorange][/COLOR]</title>
+<link>http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3184163417/74942b63c2f721967f35174f3355440f_400x400.jpeg</thumbnail>
+
+</item>
 			
-			
+			<item>
+<title>[COLOR=red] [COLOR=white] ONDALUZ 54 TV CADIZ [COLOR=darkorange][/COLOR]</title>
+<link>http://cls.elitehd-audiovisuales.com/olcadiz/livestream1/master.m3u8</link>
+<thumbnail>http://taylorhits.com/newsletter/Foto-Blog/8TV-Crister.jpg</thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] TV3 CAT TV [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/tv3-cat.jpg</thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] TV3 [COLOR=darkorange][/COLOR]</title>
+<link>http://www.tv3.cat/directetv3cat/tv3catpc.m3u8</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/650/0/logo-tv3-negro.jpg</thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] 324 Catalunya BARCELONA [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8</link>
+<thumbnail>http://www.varador2000.com/wp-content/uploads/Canal-324.png</thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] TV3.BARCELONA [COLOR=darkorange][/COLOR][COLOR orange]Opción 2[/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8</link>
+<thumbnail>http://www.iamtogether.com/assets/uploads/news/tv3.jpeg</thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR=red] [COLOR=white] TV3 CAT WEB [COLOR=darkorange][/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/tv3-cat.jpg</thumbnail>
+
+</item>
+<item>
+<title>[COLOR=red] [COLOR=white] EITB Euskal Irrati Telebista [COLOR=darkorange][/COLOR]</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8</link>
+<thumbnail>http://www.eitb.eus/multimedia/images/2013/10/09/1207968/eitb_logo_foto610x342_foto610x342.jpg</thumbnail>
+<fanart>http://archivoimagenes.heraldo.es/uploads/imagenes/bajacalidad/2012/09/11/_telemadrid_da1cb4e8.jpg</fanart>
+</item>
+
+
+
+
