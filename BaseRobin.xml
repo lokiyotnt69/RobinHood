@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/ESPECIAL%20TO
 http://cinestrenostv.tv/
 
 	<item>
-		<title>[COLOR red] [/COLOR]</title>
+		<title>[COLOR red] Cuatro [/COLOR]</title>
 		<sportsdevil>http://verdirectotv.com/ver-la-cuatro-online-y-directo-gratis-las-24-horas/</sportsdevil>
 		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
 		<referer>http://cinestrenostv.tv/</referer>
@@ -108,22 +108,23 @@ http://cinestrenostv.tv/
 </item>
 	 
 	 <item>
-		<title>[COLOR red] [/COLOR]</title>
-		<sportsdevil></sportsdevil>
-		<sportsdevil></sportsdevil>
-		<referer></referer>
+		<title>[COLOR red] Telecinco [/COLOR]</title>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+		<sportsdevil>http://verdirectotv.com/ver-telecinco-en-directo-y-online-gratis-fuera-de-espana-gran-hermano-salvame-myh</sportsdevil>
+			<sportsdevil>http://www.vercanalestv.com/ver-telecinco-online-y-directo-gratis-fuera-de-espana/</sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
       <thumbnail></thumbnail>
 </item>
 
-	 
+	 http://www.vercanalestv.com/ver-telecinco-online-y-directo-gratis-fuera-de-espana/
 	 <item>
-		<title>[COLOR red] [/COLOR]</title>
-		<sportsdevil></sportsdevil>
-		<sportsdevil></sportsdevil>
+		<title>[COLOR red] LA SEXTA [/COLOR]</title>
+		<sportsdevil>http://www.verdirectotv.com/ver-la-sexta-en-directo-y-online-las-24h/</sportsdevil>
+		<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
 		<referer></referer>
       <thumbnail></thumbnail>
 </item>
-
+http://cinestrenostv.tv/
 	 
 	 <item>
 		<title>[COLOR red] [/COLOR]</title>
@@ -168,6 +169,7 @@ http://cinestrenostv.tv/
       <thumbnail></thumbnail>
 </item>
 
+
 	<item>
 		<title>[COLOR red] [/COLOR]</title>
 		<sportsdevil></sportsdevil>
@@ -181,6 +183,71 @@ http://cinestrenostv.tv/
 		<sportsdevil></sportsdevil>
 		<sportsdevil></sportsdevil>
 		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+	<item>
+		<title>[COLOR red] [/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR red] [/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+
+	<item>
+		<title>[COLOR red] [/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR red] [/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+	<item>
+		<title>[COLOR red] BEIN LA LIGA [/COLOR]</title>
+		<sportsdevil>http://verdirectotv.com/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR red] BEIN SPORT ESPAÑA [/COLOR]</title>
+		<sportsdevil>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://www.vercanalestv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+
+	<item>
+		<title>[COLOR red] LA LIGA123 [/COLOR]</title>
+		<sportsdevil>http://www.verdirectotv.com/ver-canal-movistar-liga123-liga-adelante-online/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://www.verdirectotv.com/</referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR red] BEIN SPORTS [/COLOR]</title>
+		<sportsdevil>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://www.vercanalestv.com/</referer>
       <thumbnail></thumbnail>
 </item>
  
