@@ -66,10 +66,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-http://pastebin.com/raw/ST8eCnq2
-http://pastebin.com/raw/8ak6PDNQ
-https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/todoplusRS.xml
-https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/ESPECIAL%20TOP%20GRUPOS%20MUSICALES.xml
 
 <item>
  <title>[COLOR red]* [/COLOR][COLOR blue] PELIS [/COLOR][COLOR red] A  [/COLOR][COLOR red]* [/COLOR][COLOR blue] LA [/COLOR][COLOR red]  CARTA [/COLOR] </title>
@@ -78,6 +74,53 @@ https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/ESPECIAL%20TO
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+<item>
+<title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FUTBOL[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://no1dadicated.tk:8000/live/cuda/cuda/26740.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Ibo/Ibo/22117.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/10700.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
+<link>http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10700.m3u8$$lsname=MOVISTAR FUTBOL  (HTTP source #01)</link>
+<link>rtmp://www1.iguide.to/iguide playpath=gspli4f4yrzocn4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=728&height=565&channel=34862&autoplay=true token=#ed%h0#w18623jsda6523IDGD$$lsname=MOVISTAR FUTBOL (RTMP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.liveonlinetv247.info/embed/canal+futbol.php$$lsname=MOVISTAR FUTBOL (Sports Devil source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://v2.ustreamix.com/stream.php?id=movistar-futbol-v1$$lsname=MOVISTAR FUTBOL (Sports Devil source #02)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
+</item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR GOLF[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://no1dadicated.tk:8000/live/cuda/cuda/26738.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR GOLF (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/10686.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR GOLF (F4M source #01)</link>
+<link>http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10686.m3u8$$lsname=MOVISTAR GOLF  (HTTP source #01)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/800px-Movistar_Golf.svg.png</thumbnail>
+</item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR F1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://no1dadicated.tk:8000/live/cuda/cuda/26741.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR F1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Ibo/Ibo/4800.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR F1 (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/10688.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR F1 (F4M source #01)</link>
+<link>http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10688.m3u8$$lsname=MOVISTAR F1  (HTTP source #01)</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg</thumbnail>
+</item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR PARTIDAZO[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/10710.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR PARTIDAZO (F4M source #01)</link>
+<link>http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10710.m3u8$$lsname=MOVISTAR PARTIDAZO  (HTTP source #01)</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828</thumbnail>
+</item>
+
+<item><title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR MOTOGP[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://no1dadicated.tk:8000/live/cuda/cuda/26737.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://193.70.45.41:8000/live/Ibo/Ibo/7243.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>plugin://plugin.video.f4mTester/?url=http://echootv.org/live/showsat_PegD8u/2KzUQW6Y/10687.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR MOTOGP (F4M source #01)</link>
+<link>http://echootv.org/live/showsat_RQkyhZ/biUj5Gs2/10687.m3u8$$lsname=MOVISTAR MOTOGP  (HTTP source #01)</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://ustreamyx.com/stream.php?id=motogp$$lsname=MOVISTAR MOTOGP (Sports Devil source #01)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/800px-Movistar_Moto_GP.svg.png</thumbnail>
+</item>
+
+
+
 
 
 
