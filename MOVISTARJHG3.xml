@@ -9,19 +9,74 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow]Baby Tv[/COLOR] </title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/babytv.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+
+
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] BEIN SPORTS LA LIGA  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://www.vercanalestv.com/</referer>
+      <thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg</thumbnail>
 </item>
+	 
+	 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] BEIN SPORTS [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</sportsdevil>
+		<sportsdevil>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</sportsdevil>
+		<referer>http://www.vercanalestv.com/</referer>
+      <thumbnail>http://www.vercanalestv.com/imagenes/bein-sport.jpg</thumbnail>
+</item>
+
+
+
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] EUROSPORT [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/</sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer>http://www.vercanalestv.com/</referer>
+      <thumbnail>http://www.vercanalestv.com/imagenes/eurosport.jpg</thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+
+
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+	 
+	 <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil></sportsdevil>
+		<sportsdevil></sportsdevil>
+		<referer></referer>
+      <thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
   
 	 <item>
 		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] BEIN LA LIGA [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
 		<sportsdevil>http://verdirectotv.com/ver-bein-la-liga-gratis-en-directo/</sportsdevil>
-		<sportsdevil>http://verdirectotv.com/</sportsdevil>
-		<referer></referer>
+		<sportsdevil></sportsdevil>
+		<referer>http://verdirectotv.com/</referer>
       <thumbnail>http://verdirectotv.com/logos/bein-laliga.jpg</thumbnail>
 </item>
 
@@ -38,7 +93,7 @@
 	 <item>
 		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] GOLTV [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
 		<sportsdevil>http://verdirectotv.com/ver-goltv-en-directo-y-online-gratis-por-internet/</sportsdevil>
-		<sportsdevil>http://verdirectotv.com/</sportsdevil>
+		<sportsdevil></sportsdevil>
 		<referer>http://verdirectotv.com/</referer>
       <thumbnail></thumbnail>
 </item>
@@ -63,13 +118,7 @@ http://verdirectotv.com/
 
  
  
-	 <item>
-		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] GRAN HERMANO [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
-		<sportsdevil>cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil>
-		<sportsdevil>http://www.verdirectotv.com/ver-gran-hermano-vip-la-casa-en-directo-24-horas/</sportsdevil>
-		<referer>http://www.verdirectotv.com/</referer>
-      <thumbnail>http://verdirectotv.com/logos/ghvip.jpeg</thumbnail>
-</item>
+	
 
 	 <item>
 		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
@@ -525,18 +574,6 @@ http://verdirectotv.com/
 <fanart>http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ATRESERIES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/astreseries.php</sportsdevil>
-<sportsdevil>http://latelete.tv/ver-atreseries-online-en-directo-gratis/</sportsdevil>
-<sportsdevil>http://www.tvenganchado.com/a3series.php</sportsdevil>
-<sportsdevil>http://vertutele.com/ver-atreseries-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
-<sportsdevil>http://biophobia.tv/nacionales/atreseries.php</sportsdevil>
-<sportsdevil>http://www.vercanalestv.com/ver-atreseries-online-y-directo-gratis/</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] SUPER [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -546,6 +583,28 @@ http://verdirectotv.com/
 <sportsdevil>http://www.verdirectotv.com/ver-tve-1-en-directo-y-gratis-por-internet-tve1-online-fuera-de-espana/</sportsdevil>
 <sportsdevil></sportsdevil>
 <sportsdevil></sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+ <item>
+		<title>[COLOR skyblue]_**_  [/COLOR][COLOR  skyblue] GRAN HERMANO [/COLOR][COLOR skyblue]  _**_[/COLOR]</title>
+		<sportsdevil>cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil>
+		<sportsdevil>http://www.vercanalestv.com/ver-gran-hermano-18-revolution-online-gratis-en-directo-por-internet/</sportsdevil>
+		<referer>http://www.verdirectotv.com/</referer>
+      <thumbnail>http://verdirectotv.com/logos/ghvip.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ATRESERIES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/astreseries.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-atreseries-online-en-directo-gratis/</sportsdevil>
+<sportsdevil>http://www.tvenganchado.com/a3series.php</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-atreseries-hd-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-atreseries-online-y-directo-gratis/</sportsdevil>
 <referer>http://cinestrenostv.tv/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
