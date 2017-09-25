@@ -215,27 +215,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-https://www.youtube.com/watch?v=EByEXKD7UV4&pbjreload=10
 
 <item>
-<title>[COLOR red] 995 PELICULAS [/COLOR]</title>
+<title>[COLOR red]  PELICULAS INFANTILES [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
             <listrepeat><![CDATA[
-                          <title>[COLOR lime] LIVE MUSIC[/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
+                          <title>[COLOR lime] JHG [/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
                        <thumbnail></thumbnail>
     <fanart></fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=esgvRrp3Mh8&amp;list=PLgTLZSbwbEZwoIAK-NJz3DEqGMlGYHuZZ</page>
+            <page>https://www.youtube.com/watch?v=RInIpcGoEWI&amp;list=PLNq2eaZvd5PsV1JBCbij0U6igns0HnXew</page>
              <cookieJar></cookieJar>
 </regex>
  
  <thumbnail></thumbnail>
     <fanart></fanart>
 </item>
+
 
 
 
