@@ -200,11 +200,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZZZZZ  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>        
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PELICULAS TERROR EN VIVO  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>        
 <urlsolve>https://www.youtube.com/watch?v=vOlMRN2MrOs</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PELICULAS ACCION EN VIVO  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>        
+<urlsolve>https://www.youtube.com/watch?v=EByEXKD7UV4&pbjreload=10</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+https://www.youtube.com/watch?v=EByEXKD7UV4&pbjreload=10
 
 <item>
 <title>[COLOR red] 995 PELICULAS [/COLOR]</title>
