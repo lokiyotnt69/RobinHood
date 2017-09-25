@@ -188,6 +188,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+ 
+<item>
+<title>[COLOR  yellow]* [/COLOR][COLOR yellow] NUEVO ADDON SUPER[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/BASEDARK.xml</externallink>	
+</item>
+
+
+
+
+
+
+
 <item>
 <title>[B][COLOR lawngreen]• [B][COLOR white] MOVISTAR FUTBOL[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://no1dadicated.tk:8000/live/cuda/cuda/26740.ts;streamtype=TSDOWNLOADER&amp;name=$$lsname=MOVISTAR FUTBOL (F4M source #01)</link>
