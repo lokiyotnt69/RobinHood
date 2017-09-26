@@ -12,8 +12,9 @@
 </item>
 
 
+
 <item>
-<title>[COLOR red][B]Netflix Series:[/B][/COLOR] [COLOR yellow]Orden Alfabetico[/COLOR] [COLOR violet][I](Nuevo)[/I][/COLOR]</title>
+<title>[COLOR skyblue][B]DIABLO Series:[/B][/COLOR] </title>
  <link>$doregex[makelist3]</link>
  
  <regex>
@@ -21,7 +22,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR deepskyblue][B][makelist3.param1][/B][/COLOR]</title>
  <link>$doregex[makelist2]</link>
-<thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<thumbnail></thumbnail><fanart></fanart>
 ]]></listrepeat>
 <expres>series-letra-(.*?).html</expres>
 <page>http://www.mejortorrent.com/series-letra-t.html</page>
@@ -35,7 +36,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR deepskyblue][makelist2.param2][makelist2.param3][/COLOR]</title>
  <link>$doregex[makelist]</link>
-<thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>    
+<thumbnail></thumbnail><fanart></fanart>    
 ]]></listrepeat>
 <expres>href=\'(.*?)\'>(.*?)\ª(.*?)<</expres>
 <page>http://www.mejortorrent.com/series-letra-[makelist3.param1].html</page>
@@ -47,7 +48,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR deepskyblue] [makelist2.param2] - capitulo [makelist.param2][/COLOR]</title>
 <link>plugin://plugin.video.quasar/play?uri=http://www.mejortorrent.com$doregex[link]</link>
-><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>       
+><thumbnail></thumbnail><fanart></fanart>       
 ]]></listrepeat>
 <expres>solid\sblack.*href='(.*?)'>(.*?)<</expres>
 <page>http://www.mejortorrent.com/[makelist2.param1]</page>
