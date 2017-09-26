@@ -101,7 +101,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 1[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -156,7 +156,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 2[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -210,7 +210,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 3[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -263,7 +263,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 4[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -317,7 +317,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 5[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -370,7 +370,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Op. 6[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
@@ -423,7 +423,7 @@
 
 <item>
 <title>[COLOR red][B]Netflix Series:[/B][/COLOR][COLOR yellow] Retro[/COLOR]</title>
-<link>$doregex[makelist2]</link><thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail><fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+<link>$doregex[makelist2]</link><thumbnail></thumbnail><fanart></fanart>
 <regex>
   <name>makelist2</name>
   <listrepeat><![CDATA[
