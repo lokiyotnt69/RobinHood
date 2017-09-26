@@ -3,6 +3,83 @@
 
 
 
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA CINE [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA TAQUILLAS [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA TV[/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA [/COLOR][COLOR skyblue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail> 
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
 <item>
 <title>-[COLOR yellow] PELICULAS EN DIRECTO [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -11,8 +88,15 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/PELICULASENVIVO.xml</externallink>	
 </item>
 
-
-
+<parentalblock>true</parentalblock>
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Sy34OJp.jpg</thumbnail>
+<fanart>http://i.imgur.com/Sy34OJp.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
+</item>
 
 
 <item>
