@@ -280,7 +280,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PELICULAS ACCION EN VIVO  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>        
 <urlsolve>https://www.youtube.com/watch?v=EByEXKD7UV4&pbjreload=10</urlsolve>
