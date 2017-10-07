@@ -314,8 +314,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<<<<<<< HEAD
 
 ---------------------------------------------------------------
+=======
+>>>>>>> origin/master
 
 <item>
 <title>-[COLOR skyblue] QUIEN ERES[/COLOR]</title>
@@ -365,10 +368,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-=======
->>>>>>> origin/master
 <item>
-<title>-[COLOR skyblue] robinhth[/COLOR]</title>
+<title>-[COLOR skyblue] ro123h[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
