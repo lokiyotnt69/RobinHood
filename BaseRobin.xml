@@ -1063,6 +1063,18 @@
         <fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 </item>
 
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] CINE [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/UdVJ3rn.jpg</thumbnail> 
+<fanart>https://i.imgur.com/UdVJ3rn.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/Basepelisdark12.xml</externallink>	
+</item>
+
+
+
 <item>
 <title>[COLOR red] EL EQUIPO A[/COLOR]</title>
 <link>$doregex[makelist]</link>
