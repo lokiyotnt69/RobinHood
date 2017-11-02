@@ -692,6 +692,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<<<<<<< HEAD
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
@@ -737,6 +738,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CineThumbnail.png?raw=true</thumbnail>
 </item>
+=======
+
+
+
+>>>>>>> origin/master
 <item>
 <title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] CINE [/COLOR]</title>
 <link>http://Ignoreme</link>
