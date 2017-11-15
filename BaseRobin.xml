@@ -4,6 +4,31 @@
 
 
 
+<item>
+<title>[B][COLOR lime] *JHG*  [/B][COLOR]Arenavision[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/$doregex[select]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Arenavision', ['Arenavision 01','Arenavision 02','Arenavision 03','Arenavision 04','Arenavision 05','Arenavision 06','Arenavision 07','Arenavision 08','Arenavision 09','Arenavision 10','Arenavision 11','Arenavision 12','Arenavision 13','Arenavision 14','Arenavision 15','Arenavision 16','Arenavision 17','Arenavision 18','Arenavision 19','Arenavision 20','Arenavision 21','Arenavision 22','Arenavision 23','Arenavision 24','Arenavision 25','Arenavision 26','Arenavision 27','Arenavision 28','Arenavision 29','Arenavision 30','Arenavision 31','Arenavision 32','Arenavision 33','Arenavision 34','Arenavision 35',])
+   lists = ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-aGQz7eOYEi8/WSBg2rYeiDI/AAAAAAAABB0/-upsZbTJK6oIPfUaSvq17gG8twf_tQ3rgCK4B/s1600/aseistream.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+</item>
 
 <item>
 <title> [COLOR red]DIABLO2.0[/COLOR][COLOR blue] PELICULAS [/COLOR][COLOR red] INFANTILES [/COLOR]  </title>
