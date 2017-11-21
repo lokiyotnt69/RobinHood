@@ -2,7 +2,161 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR aquamarine]AGENDA DE TELEVISION[/COLOR]</title>
+ <link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightslategray][COLOR aquamarine][B][makelist.param1][/B][/COLOR][COLOR deepskyblue][B][makelist.param2] [makelist.param3][/B][/COLOR][/COLOR][makelist.param4] [makelist.param5]</title>
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/2015/11/06/Recortada/img_vmauri_20151106-120448_imagenes_md_otras_fuentes_guiatv-kZIF-U3012230926NQH-428x221@MundoDeportivo-Web.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/movistarplus/</page>
+</regex>
+<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/2015/11/06/Recortada/img_vmauri_20151106-120448_imagenes_md_otras_fuentes_guiatv-kZIF-U3012230926NQH-428x221@MundoDeportivo-Web.jpg</thumbnail>
+<info> </info>
+ </item>
+
+<item>
+<title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT[/COLOR]</title>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zonatv/canales%20TDT.xml</externallink>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]CANALES [/COLOR] [COLOR pink]DIGITALES 1[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/premium.xml</externallink>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]CANALES [/COLOR] [COLOR pink]DIGITALES 2[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
+<link>ignoreme</link>
+<externallink>http://pastebin.com/raw/FnphjAX5</externallink>
+</item>
+
+<item>
+<title>[COLOR orange]CANALES [/COLOR] [COLOR pink]DIGITALES 3[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
+<link>ignoreme</link>
+<externallink>https://pastebin.com/raw/64kMNcrp</externallink>
+</item>
+
+
+
+
+
+
+
+item>
+<title>[COLOR blue]CANALES [/COLOR] [COLOR pink]DIGITALES 4[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/addon.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]CANALES [/COLOR] [COLOR pink]DIGITALES 4[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/esp.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime]CANALES [COLOR pink]DIGITALES 5[/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://goo.gl/gKTJn1</externallink> 
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>	
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart> 
+<info></info>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]ZONA PREMIUM  CANALES [/COLOR]</title>
+    <link>ignorame</link>
+    <externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/motogp.xml</externallink> 
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</thumbnail>	
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png</fanart> 
+<info></info>
+</item>
+
+
+
+
+
+
+
+
+ 
+ 		<item>
+<title>[COLOR yellow][B] CANALES DE [/B] [/COLOR][COLOR orange]DEPORTES[I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/espdep.xml</externallink>
+<thumbnail>http://melodyradios.com/wp-content/uploads/2017/02/canales-Deportivos.jpg</thumbnail>
+</item>	
+ 
+  		<item>
+<title> [COLOR fuchsia][B] CANALES[/B] MEXICO[I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/mx.xml</externallink>
+<thumbnail>http://2.bp.blogspot.com/_LA1qZLe26G8/SD7JrBW1gcI/AAAAAAAAANU/4UvOqF8XdOg/s400/%2B60-canales.jpg</thumbnail>
+</item>	
+ 
+
+   		<item>
+<title> [COLOR fuchsia][B] CANALES[/B] TOTALPLAY[I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/totalp.xml</externallink>
+<thumbnail>http://2.bp.blogspot.com/_LA1qZLe26G8/SD7JrBW1gcI/AAAAAAAAANU/4UvOqF8XdOg/s400/%2B60-canales.jpg</thumbnail>
+</item>	
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR coral]ZONA[/COLOR] [COLOR fuchsia]IP[/COLOR][COLOR lime]TV[/COLOR][COLOR orange] DIA[/COLOR][COLOR green]RIA[/COLOR]</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41PhuHbWGfL.png</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/41PhuHbWGfL.png</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elanonimo35/elgitano/master/tv/zona%20iptv.xml</externallink>
+</item>
+
 --------------------------------------------------------------------------------
 <items>
 
