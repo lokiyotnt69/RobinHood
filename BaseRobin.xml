@@ -1,7 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
+</item>
 
+<item>
+<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR brown][COLOR brown]-[/COLOR]CAMARAS DEL MUNDO </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CAMARAS_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][COLOR yellow]-[/COLOR]PELICULAS INOLVIDABLES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Peliculas_inolvidables_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][COLOR orange]-[/COLOR]PELICULAS DE ESTRENOS 2017</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB POR GENEROS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_GENEROS_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]SALAS DE CINE</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SALASCINE_ryu.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB INFANTIL</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_INFANTIL.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]SERIES INFANTILES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SERIES_INFANTIL_ryu.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR lime]-[/COLOR]VIDEOCLUB ANIME</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ANIME_ryu.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR lime][COLOR lime]-[/COLOR]LAS MEJORES SERIES DEL MOMENTO</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SERIES_ryu.xml</externallink>
+</item>
+ 
+<item>
+<title>[COLOR red][COLOR red]-[/COLOR]SAGAS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SAGAS_ryu.xml</externallink>
+</item>
+ 
+ <item>
+<title>[COLOR white][COLOR white]-[/COLOR]DOCUMENTALES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DOCUMENTALES_ryu.xml</externallink>
+</item>
 
 <items>
 
@@ -495,55 +609,6 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 =====================================================================================
 
-<item>
-  <title>[COLOR yellow]Me-Buscan[/COLOR]  [COLOR cyan]Acestream[/COLOR]</title>
-<thumbnail>http://website.informer.com/thumbnails/280x202/m/mebuscan.net.png</thumbnail>
-<link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR orange] [makelist.param3] [/COLOR]</title>
-    <link>plugin://program.plexus/?url=$doregex[get-link]&amp;mode=1&amp;name=[makelist.param3]</link>
-    <thumbnail>http://mebuscan.net/[makelist.param1]|Referer=http://mebuscan.net/</thumbnail>
-]]></listrepeat>            thumb              link                title
-<expres><![CDATA[Logo" src="(.*?)".*?ventana1\((\d*)\)><strong><br>(.*?)<\/strong>]]></expres>
-<page>http://mebuscan.net</page>  
-</regex>
-
-<regex>
-<name>get-link</name>
-<expres>"acestream://(.*?)"</expres>
-<page>http://mebuscan.net/kosm/contenedor.php?canal=[makelist.param2]&amp;nav=ANDR</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item> 
-<item>
-<title>[COLOR aquamarine]AGENDA DE TELEVISION[/COLOR]</title>
- <link>$doregex[makelist]</link>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightslategray][COLOR aquamarine][B][makelist.param1][/B][/COLOR][COLOR deepskyblue][B][makelist.param2] [makelist.param3][/B][/COLOR][/COLOR][makelist.param4] [makelist.param5]</title>
-<link>$doregex[ip]|User-Agent=iPad</link>
-<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/2015/11/06/Recortada/img_vmauri_20151106-120448_imagenes_md_otras_fuentes_guiatv-kZIF-U3012230926NQH-428x221@MundoDeportivo-Web.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
-<page>http://www.formulatv.com/programacion/movistarplus/</page>
-</regex>
-<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/2015/11/06/Recortada/img_vmauri_20151106-120448_imagenes_md_otras_fuentes_guiatv-kZIF-U3012230926NQH-428x221@MundoDeportivo-Web.jpg</thumbnail>
-<info> </info>
- </item>
-
-<item>
-<title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT[/COLOR]</title>
-<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
-<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zonatv/canales%20TDT.xml</externallink>
-</item>
 
 
 
