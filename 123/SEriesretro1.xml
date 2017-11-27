@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ 
+<item>
+<title>[COLOR red]*ALF[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91JR65vlDCL._SL1500_.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://images-na.ssl-images-amazon.com/images/I/91JR65vlDCL._SL1500_.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jml/alf-50702/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jml/alf-50702/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91JR65vlDCL._SL1500_.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://images-na.ssl-images-amazon.com/images/I/91JR65vlDCL._SL1500_.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+[COLOR red]*[/COLOR] 
+
+<item>
+<title>[COLOR red]*AIDA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/aida_tv_series-969726628-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/aida_tv_series-969726628-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jonmiberrio/aida-serie-completa-temporadas-1-10-14094/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jonmiberrio/aida-serie-completa-temporadas-1-10-14094/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/aida_tv_series-969726628-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/aida_tv_series-969726628-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+<item>
+<title>[COLOR red]*AGUILA ROJA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://img.rtve.es/i/?w=1000&crop=no&o=no&i=1441105747959.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://img.rtve.es/i/?w=1000&crop=no&o=no&i=1441105747959.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/aguila-roja-47631/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/aguila-roja-47631/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.rtve.es/i/?w=1000&crop=no&o=no&i=1441105747959.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://img.rtve.es/i/?w=1000&crop=no&o=no&i=1441105747959.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+  
+
+
+<item>
+<title>[COLOR red]*ANA Y LOS SIETE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</fanart>
+<thumbnail>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/ana-y-los-siete-69616/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/trivianita/ana-y-los-siete-69616/list,1,4</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</fanart>
+<thumbnail>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]*CHEER[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/183897/p183897_b_v8_ak.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.gstatic.com/tv/thumb/tvbanners/183897/p183897_b_v8_ak.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/cheers-espanol-71923/list,1,20</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/cheers-espanol-71923/list,1,20</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/183897/p183897_b_v8_ak.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/183897/p183897_b_v8_ak.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+<item>
+<title>[COLOR red]*COLOMBO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/colombo-serie-completa-20532/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/naredo/colombo-serie-completa-20532/list,1,3</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]*COSAS DE CASA[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/family_matters_tv_series-795292648-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/family_matters_tv_series-795292648-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/darioman/cosas-de-casa-39298/list,1,20</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/darioman/cosas-de-casa-39298/list,1,20</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/family_matters_tv_series-795292648-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/family_matters_tv_series-795292648-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+<item>
+<title>[COLOR red]*DINOSAURIOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://1.bp.blogspot.com/_tgQWBNsFI5A/S_2JmHkpIzI/AAAAAAAAAC4/SFIP3DVwAgs/s1600/5clvk7.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://1.bp.blogspot.com/_tgQWBNsFI5A/S_2JmHkpIzI/AAAAAAAAAC4/SFIP3DVwAgs/s1600/5clvk7.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/dinosaurios-serie-infantil-44957</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/dinosaurios-serie-infantil-44957</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/_tgQWBNsFI5A/S_2JmHkpIzI/AAAAAAAAAC4/SFIP3DVwAgs/s1600/5clvk7.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://1.bp.blogspot.com/_tgQWBNsFI5A/S_2JmHkpIzI/AAAAAAAAAC4/SFIP3DVwAgs/s1600/5clvk7.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+<item>
+<title>[COLOR red]*DOCTOR WHO[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.torrentscompletos.com/wp-content/uploads/2017/03/fdgsdA.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.torrentscompletos.com/wp-content/uploads/2017/03/fdgsdA.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/doctor-who-53061/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/doctor-who-53061/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.torrentscompletos.com/wp-content/uploads/2017/03/fdgsdA.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.torrentscompletos.com/wp-content/uploads/2017/03/fdgsdA.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+<item>
+<title>[COLOR red]*EL PRINCIPE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://imagessl7.casadellibro.com/m/ig/7/2571907.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://imagessl7.casadellibro.com/m/ig/7/2571907.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/el-principe-todas-temporadas-46239/list,1,2</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/el-principe-todas-temporadas-46239/list,1,2</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://imagessl7.casadellibro.com/m/ig/7/2571907.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://imagessl7.casadellibro.com/m/ig/7/2571907.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+
+<item>
+<title>[COLOR red]*ESCENAS DE MATRIMONIO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</fanart>
+<thumbnail>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/escenas-de-matrimonio-el-rockero-54191/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/trivianita/escenas-de-matrimonio-el-rockero-54191/list,1,2/page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</fanart>
+<thumbnail>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]*EXPEDIENTE X[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://sous-titres.icdn.pro/media/poster/saison-1/855-the-x-files-w185.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://sous-titres.icdn.pro/media/poster/saison-1/855-the-x-files-w185.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/expediente-x-espanol-todas-temp-66235/list,1,100</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/expediente-x-espanol-todas-temp-66235/list,1,100</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://sous-titres.icdn.pro/media/poster/saison-1/855-the-x-files-w185.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://sous-titres.icdn.pro/media/poster/saison-1/855-the-x-files-w185.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+<item>
+<title>[COLOR red]*HERCULES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/183985/p183985_b_v8_ar.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.gstatic.com/tv/thumb/tvbanners/183985/p183985_b_v8_ar.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/hercules-serie-67104/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/hercules-serie-67104/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/183985/p183985_b_v8_ar.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/183985/p183985_b_v8_ar.jpg</fanart> <!-- aqui va el fondo -->
+</item> 
+
+<item>
+<title>[COLOR red]*LA CASA DE LOS LIOS [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://cloud10.todocoleccion.online/series-tv-dvd/tc/2013/12/27/11/40723044.jpg</fanart>
+<thumbnail>http://cloud10.todocoleccion.online/series-tv-dvd/tc/2013/12/27/11/40723044.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/la-casa-de-los-lios-serie-73846/list,1,6</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/naredo/la-casa-de-los-lios-serie-73846/list,1,6</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://cloud10.todocoleccion.online/series-tv-dvd/tc/2013/12/27/11/40723044.jpg</fanart>
+<thumbnail>http://cloud10.todocoleccion.online/series-tv-dvd/tc/2013/12/27/11/40723044.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]*LA FAMILIA ADDAMS SERIE TV[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/32/8a/34/328a34fa6b502b62d462dfe2eaea50bd.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/32/8a/34/328a34fa6b502b62d462dfe2eaea50bd.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/la-familia-addams-serie-tv-74254/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/naredo/la-familia-addams-serie-tv-74254/list,1,3</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/32/8a/34/328a34fa6b502b62d462dfe2eaea50bd.jpg</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/32/8a/34/328a34fa6b502b62d462dfe2eaea50bd.jpg</thumbnail>
+</item>
+
+
+  
+
+
+<item>
+<title>[COLOR red]*FRIENDS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn.playbuzz.com/cdn/c2b69e9c-1547-44f7-89ae-c7af5fc82525/9bb9de16-cc46-441e-9c30-dfdb4ddd3a1d.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://cdn.playbuzz.com/cdn/c2b69e9c-1547-44f7-89ae-c7af5fc82525/9bb9de16-cc46-441e-9c30-dfdb4ddd3a1d.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/titotv/friends-serie-completa-1156/list,1,20</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/titotv/friends-serie-completa-1156/list,1,20</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.playbuzz.com/cdn/c2b69e9c-1547-44f7-89ae-c7af5fc82525/9bb9de16-cc46-441e-9c30-dfdb4ddd3a1d.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://cdn.playbuzz.com/cdn/c2b69e9c-1547-44f7-89ae-c7af5fc82525/9bb9de16-cc46-441e-9c30-dfdb4ddd3a1d.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+  
+
+
+
+	
+<item>
+<title>
+[COLOR red]*EL COCHE FANTASTICO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</fanart>
+<thumbnail>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/el-coche-fantastico-53427/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/el-coche-fantastico-53427/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</fanart>
+<thumbnail>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</thumbnail>
+</item>
+
+
+<items>
+	
+
+<item>
+<title>[COLOR red]*EL PRINCIPE DE BEL AIR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/the_fresh_prince_of_bel_air_tv_series-309013589-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/the_fresh_prince_of_bel_air_tv_series-309013589-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/el-principe-de-bel-air-espanol-todas-temp-53516/list,1,6</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/el-principe-de-bel-air-espanol-todas-temp-53516/list,1,6</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/the_fresh_prince_of_bel_air_tv_series-309013589-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/the_fresh_prince_of_bel_air_tv_series-309013589-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+
+<item>
+<title>[COLOR red]*EL EQUIPO A[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/the_a_team_tv_series-322332863-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/the_a_team_tv_series-322332863-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/el-equipo-a-espanol-todas-temporadas-52053/list,1,4</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/el-equipo-a-espanol-todas-temporadas-52053/list,1,4</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/the_a_team_tv_series-322332863-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/the_a_team_tv_series-322332863-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+ 
+<item>
+<title>[COLOR red]*LOS 100[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/13516352/p13516352_b_v8_aa.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.gstatic.com/tv/thumb/tvbanners/13516352/p13516352_b_v8_aa.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/los-100-49103/list,1,3</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/los-100-49103/list,1,3</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/13516352/p13516352_b_v8_aa.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/13516352/p13516352_b_v8_aa.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+<item>
+<title>[COLOR red]*LOS HOMBRES DE HARRELSON[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.thinkfuture.es/wp-content/uploads/2012/02/harrelson.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.thinkfuture.es/wp-content/uploads/2012/02/harrelson.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/los-hombres-de-harrelson-serie-55373/list,1,2</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/los-hombres-de-harrelson-serie-55373/list,1,2</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.thinkfuture.es/wp-content/uploads/2012/02/harrelson.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.thinkfuture.es/wp-content/uploads/2012/02/harrelson.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+<item>
+<title>[COLOR red]*LOS PROBLEMAS CRECEN[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71TTmLNo59L._SL1289_.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://images-na.ssl-images-amazon.com/images/I/71TTmLNo59L._SL1289_.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/lokario1/los-problemas-crecen-temporadas-12345-14387/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/lokario1/los-problemas-crecen-temporadas-12345-14387/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71TTmLNo59L._SL1289_.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://images-na.ssl-images-amazon.com/images/I/71TTmLNo59L._SL1289_.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+<item>
+<title>[COLOR red]*LOS VIGILANTES DE LA PLAYA[/COLOR] </title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/Los_vigilantes_de_la_playa_Serie_de_TV-315451945-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/Los_vigilantes_de_la_playa_Serie_de_TV-315451945-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/los-vigilantes-d-la-playacast-d-la-1-a-la-5-temp-47353/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/los-vigilantes-d-la-playacast-d-la-1-a-la-5-temp-47353/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/Los_vigilantes_de_la_playa_Serie_de_TV-315451945-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/Los_vigilantes_de_la_playa_Serie_de_TV-315451945-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+  
+<item>
+<title>[COLOR red]*MACGYVER[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.name-list.net/img/portrait/Magayver_1.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.name-list.net/img/portrait/Magayver_1.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/macgyver-23956/list,1,6</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/macgyver-23956/list,1,6</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.name-list.net/img/portrait/Magayver_1.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.name-list.net/img/portrait/Magayver_1.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+<item>
+<title>[COLOR red]*MAKINAVAJA ANDRES PAJARES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://a397.idata.over-blog.com/5/01/86/01/Otros-archivos/Peliculas/Peliculas-completas/Makinavaja.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://a397.idata.over-blog.com/5/01/86/01/Otros-archivos/Peliculas/Peliculas-completas/Makinavaja.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/makinavaja-serie-y-peliculas-45219/list,1,2</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/makinavaja-serie-y-peliculas-45219/list,1,2</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://a397.idata.over-blog.com/5/01/86/01/Otros-archivos/Peliculas/Peliculas-completas/Makinavaja.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://a397.idata.over-blog.com/5/01/86/01/Otros-archivos/Peliculas/Peliculas-completas/Makinavaja.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+
+
+<item>
+<title>[COLOR red]*MANOS A LA OBRA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71MwBKEbsdL._SY445_.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://images-na.ssl-images-amazon.com/images/I/71MwBKEbsdL._SY445_.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/lokario1/manos-a-la-obra-11627/list,1,6</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/lokario1/manos-a-la-obra-11627/list,1,6</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71MwBKEbsdL._SY445_.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://images-na.ssl-images-amazon.com/images/I/71MwBKEbsdL._SY445_.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+ 
+<item>
+<title>[COLOR red]*MILENNIUM[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/millennium_tv_series-676235568-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/millennium_tv_series-676235568-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/milenium-61748/list,1,3</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/milenium-61748/list,1,3</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/millennium_tv_series-676235568-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/millennium_tv_series-676235568-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+
+<item>
+<title>[COLOR red]*REAL HUMANS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://es.web.img3.acsta.net/pictures/14/01/29/14/41/319076.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://es.web.img3.acsta.net/pictures/14/01/29/14/41/319076.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/real-humans-serie-original-49393</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/real-humans-serie-original-49393</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img3.acsta.net/pictures/14/01/29/14/41/319076.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://es.web.img3.acsta.net/pictures/14/01/29/14/41/319076.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+
+<item>
+<title>[COLOR red]*SENSACION DE VIVIR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://es.web.img1.acsta.net/pictures/15/08/25/13/52/283720.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://es.web.img1.acsta.net/pictures/15/08/25/13/52/283720.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/sensacion-de-vivir-todas-temp-castellano-41751/list,1,12</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/sensacion-de-vivir-todas-temp-castellano-41751/list,1,12</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://es.web.img1.acsta.net/pictures/15/08/25/13/52/283720.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://es.web.img1.acsta.net/pictures/15/08/25/13/52/283720.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+
+
+ 
+<item>
+<title>[COLOR red]*SALVADOS POR LA CAMPANA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/salvados-por-la-campanacastellano-47779/list,1,4</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/salvados-por-la-campanacastellano-47779/list,1,4</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/saved_by_the_bell_tv_series-538413791-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+<item>
+<title>[COLOR red]*SE HA ESCRITO UN CRIMEN[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://static.televisionando.it/r/845X0/www.televisionando.it/img/Angela-Lansbury-non-%C3%A8-morta-Signora-in-Giallo.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://static.televisionando.it/r/845X0/www.televisionando.it/img/Angela-Lansbury-non-%C3%A8-morta-Signora-in-Giallo.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531/list,1,12</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/se-ha-escrito-un-crimen-completa-20531/list,1,12</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.televisionando.it/r/845X0/www.televisionando.it/img/Angela-Lansbury-non-%C3%A8-morta-Signora-in-Giallo.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://static.televisionando.it/r/845X0/www.televisionando.it/img/Angela-Lansbury-non-%C3%A8-morta-Signora-in-Giallo.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+ 
+<item>
+<title>[COLOR red]*SMALLVILLE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.seriespeelink.com/wp-content/uploads/2014/10/Ver-Smallville-2011.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.seriespeelink.com/wp-content/uploads/2014/10/Ver-Smallville-2011.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/smallville-castellano-todas-temporadas-35439/list,1,8</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/smallville-castellano-todas-temporadas-35439/list,1,8</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.seriespeelink.com/wp-content/uploads/2014/10/Ver-Smallville-2011.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.seriespeelink.com/wp-content/uploads/2014/10/Ver-Smallville-2011.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+  
+<item>
+<title>[COLOR red]*SOBRENATURAL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnailhttp://seriesadicto.com/img/series/supernatural.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://seriesadicto.com/img/series/supernatural.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/sobrenatural-todas-temp-castellano-39114/list,1,15</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/sobrenatural-todas-temp-castellano-39114/list,1,15</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://seriesadicto.com/img/series/supernatural.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://seriesadicto.com/img/series/supernatural.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
+<item>
+<title>[COLOR red]*THE WALKING DEAD[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://media.mcm.fr/article-3151119-fb/the-walking-dead-saison-6-episode-10-episode.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://media.mcm.fr/article-3151119-fb/the-walking-dead-saison-6-episode-10-episode.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/fraguas-fraguas/the-walking-dead-22515/list,1,5</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>http://diskokosmiko.mx/naredo/cimarron-strip-serie-54229
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/fraguas-fraguas/the-walking-dead-22515/list,1,5</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media.mcm.fr/article-3151119-fb/the-walking-dead-saison-6-episode-10-episode.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://media.mcm.fr/article-3151119-fb/the-walking-dead-saison-6-episode-10-episode.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+
+<item>
+<title>[COLOR red]*VERANO AZUL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/verano_azul_tv_series-963417368-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/verano_azul_tv_series-963417368-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/verano-azul-53133/list,1,1</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/verano-azul-53133/list,1,1</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/verano_azul_tv_series-963417368-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/verano_azul_tv_series-963417368-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+
+ 
+<item>
+<title>[COLOR red]*V LOS VISITANTES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://sim1.subirimagenes.net/img/2014/09/28/140928035633347763.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://sim1.subirimagenes.net/img/2014/09/28/140928035633347763.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/lokario1/v-los-visitantes-12047/list,1,2</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/lokario1/v-los-visitantes-12047/list,1,2</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://sim1.subirimagenes.net/img/2014/09/28/140928035633347763.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://sim1.subirimagenes.net/img/2014/09/28/140928035633347763.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+
+<item>
+<title>[COLOR red]*XENA LA PRINCESA GUERRERA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/xena_warrior_princess_tv_series-880208288-large.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>https://pics.filmaffinity.com/xena_warrior_princess_tv_series-880208288-large.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/xena-la-princesa-guerrera-serie-67233/list,1,6</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/xena-la-princesa-guerrera-serie-67233/list,1,6</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/xena_warrior_princess_tv_series-880208288-large.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>https://pics.filmaffinity.com/xena_warrior_princess_tv_series-880208288-large.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+ 
+ 
+	

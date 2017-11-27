@@ -1,0 +1,162 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR orange] HASTA SIEMPRE!![/COLOR]</title>
+<link>NA</link>
+<externallink>$doregex[getinput]</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+ 
+<regex>
+<name>getinput</name>
+ 
+<expres><![CDATA[#$pyFunction
+import xbmcgui,xbmc, xbmcaddon, time
+ 
+def GetLSProData(page_data,Cookie_Jar,m,txt='Contraseña'):
+   addon = xbmcaddon.Addon('plugin.video.JOKER')
+    addon_version = addon.getAddonInfo('version')
+    profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+    solver = InputWindow( txt=txt)
+    solution = solver.get()
+    if solution == '123':
+        return "https://raw.githubusercontent.com/lokiyotnt69/UFC/master/123.xml"
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+ 
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+</item>
+	
+	
+	
+	<!-----------------------
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/o11UEZS.jpg</thumbnail>
+		<fanart>http://i.imgur.com/o11UEZS.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SEriesretro1.xml</externallink>
+	</channel>
+	
+		
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO 2[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/o11UEZS.jpg</thumbnail>
+		<fanart>http://i.imgur.com/o11UEZS.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/vYbnGCw.jpg</thumbnail>
+		<fanart>http://i.imgur.com/vYbnGCw.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESJOKER.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE2JOKER.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*LA[/COLOR][COLOR blue] TAQUILLA[/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/LATAQUILLAFJHG.xml</externallink>
+	</channel>
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	
