@@ -121,7 +121,7 @@
 						
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] canal AXN España  [COLOR red][/COLOR]</title>
-            <sportsdevil>http://telefivegb.com/tv-spain/aqui-puedes-ver-canal-axn-online-gratis-y-en-vivo/</sportsdevil>
+            <sportsdevil>http://telefivegb.com/tv-spain/aqui-puedes-ver-canal-axn-online-gratis-y-en-vivo</sportsdevil>
             <referer>http://telefivegb.com/</referer>
             <thumbnail></thumbnail>
             </item> 
@@ -181,14 +181,43 @@
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] Fox HD ESPAÑA [COLOR red][/COLOR]</title>
-            <sportsdevil>http://telefivegb.com/tv-spain/ver-fox-hd-en-castellano-las-24h-online-y-en-directo-gratis/</sportsdevil>
+            <sportsdevil>http://telefivegb.com/tv-spain/ver-fox-hd-en-castellano-las-24h-online-y-en-directo-gratis</sportsdevil>
             <referer>http://telefivegb.com/</referer>
             <thumbnail>http://telefivegb.com/wp-content/uploads/2016/05/fox.png</thumbnail>
+            </item> 
+				
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] AXN [COLOR red][/COLOR]</title>
+            <sportsdevil>http://www.verdirectotv.tv/ver-axn-gratis-online-en-directo-canal-axn-en-vivo</sportsdevil>
+            <referer>http://www.verdirectotv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+				
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] toros [COLOR red][/COLOR]</title>
+            <sportsdevil>http://verdirectotv.tv/ver-canal-movistar-toros-online-y-directo-las-24h-ferias-taurinas/</sportsdevil>
+            <referer>http://verdirectotv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+				
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] motos [COLOR red][/COLOR]</title>
+            <sportsdevil>http://verdirectotv.tv/ver-motogp-online-y-directo-gratis-por-internet/</sportsdevil>
+           <referer>http://verdirectotv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/motogp.jpg</thumbnail>
+            </item> 
+				
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
+           <referer>http://verdirectotv.tv/</referer>
+            <thumbnail></thumbnail>
             </item> 
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
             <sportsdevil></sportsdevil>
-            <referer>http://telefivegb.com/</referer>
+           <referer>http://verdirectotv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
