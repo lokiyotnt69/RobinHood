@@ -127,17 +127,33 @@
             </item> 
 						
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] f1 [COLOR red][/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
-						
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] Eurosport [COLOR red][/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <sportsdevil>http://cinestrenostv.tv/</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+			
+						
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] moto gp [COLOR red][/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
