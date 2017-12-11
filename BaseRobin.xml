@@ -75,34 +75,28 @@
             </item> 
 				
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] FDF [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php/</sportsdevil>
 			   <sportsdevil>http://www.verdirectotv.tv/ver-fdf-factoria-de-ficcion-en-directo-y-online-las-24-horas-gratis/</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail>http://verdirectotv.tv/logos/fdf.png</thumbnail>
             </item> 
 				
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
-			   <sportsdevil></sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Paramount Channel [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+			   <sportsdevil>http://www.verdirectotv.tv/ver-paramount-channel-en-directo-y-online-gratis-24h/</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
+            <thumbnail>http://verdirectotv.tv/logos/paramount-channel.jpg</thumbnail>
             </item> 
 				
-				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
-			   <sportsdevil></sportsdevil>
-           <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
-            </item> 
+			
 			
 				
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
-			   <sportsdevil></sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Comedy Central[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+			   <sportsdevil>http://www.verdirectotv.tv/comedy-central-en-directo-gratis-online-las-24-horas-canal-en-vivo/</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
@@ -110,11 +104,11 @@
 			
 				
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
-			   <sportsdevil></sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Canal Holliwood[/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
+			   <sportsdevil>http://www.verdirectotv.tv/canal-hollywood-en-vivo-y-directo-las-24-horas-online/</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
+            <thumbnail>http://verdirectotv.tv/logos/hollywood.png</thumbnail>
             </item> 
 			
 				
