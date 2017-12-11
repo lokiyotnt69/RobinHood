@@ -186,19 +186,7 @@
             <thumbnail>http://telefivegb.com/wp-content/uploads/2016/05/fox.png</thumbnail>
             </item> 
 				
-				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Tve 1 [/COLOR]</title>
-            <sportsdevil>http://www.verdirectotv.tv/ver-tve-1-en-directo-y-gratis-por-internet-tve1-online-fuera-de-espana</sportsdevil>
-           <referer>http://www.verdirectotv.tv/</referer>
-            <thumbnail>http://verdirectotv.tv/logos/tve1.png</thumbnail>
-            </item> 
-			
-					<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]  Tve 2 [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
-           <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail>http://verdirectotv.tv/logos/tve2.png</thumbnail>
-            </item> 
+		
 			
 					<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Antena 3 [/COLOR]</title>
@@ -245,6 +233,72 @@
             </item> 
 			
 					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] Atreseries [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/astreseries.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/atreseries.png</thumbnail>
+            </item> 
+			
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/neox.php</sportsdevil>
+			   <sportsdevil>http://verdirectotv.tv/neox-online-y-directo-gratis-24-horas-libres-de-formula-1/</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/neox.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+			   <sportsdevil></sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
