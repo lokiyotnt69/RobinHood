@@ -39,7 +39,7 @@
 			<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR COMEDIA [COLOR red][/COLOR]</title>
             <sportsdevil>http://latelete.tv/canal-plus-comedia-en-directo-gratis-por-internet</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
@@ -47,31 +47,55 @@
 			<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR COMEDIA  [COLOR red][/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR ACCION [COLOR red][/COLOR]</title>
             <sportsdevil>http://latelete.tv/canal-plus-accion-en-directo-gratis-por-internet</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <referer>http://latelete.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR ACCION [COLOR red][/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil>
-            <referer>http://verdirectotv.com/</referer>
+            <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR SERIES [COLOR red][/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil>
+            <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+			
+			
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] bein [COLOR red][/COLOR]</title>
+            <sportsdevil>http://telefivegb.com/canales/deporte/beinlaliga/index2.html</sportsdevil>
+            <referer>http://telefivegb.com/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+			
+						
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR #0 [COLOR red][/COLOR]</title>
+            <sportsdevil>http://telefivegb.com/tv-spain/ver-canal-plus0-hd-online-gratis-vivo</sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] MOVISTAR #0 [COLOR red][/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
+            <referer>http://verdirectotv.com/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+						
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
             <sportsdevil></sportsdevil>
@@ -79,11 +103,11 @@
             <thumbnail></thumbnail>
             </item> 
 			
-			<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] bein [COLOR red][/COLOR]</title>
-            <sportsdevil>http://telefivegb.com/canales/deporte/beinlaliga/index2.html</sportsdevil>
+						
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
+            <sportsdevil></sportsdevil>
             <referer>http://verdirectotv.com/</referer>
             <thumbnail></thumbnail>
             </item> 
-			
 			
