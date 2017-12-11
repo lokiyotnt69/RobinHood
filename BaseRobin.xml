@@ -188,8 +188,8 @@
 				
 				<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Tve 1 [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
-           <referer>http://cinestrenostv.tv/</referer>
+            <sportsdevil>http://www.verdirectotv.tv/ver-tve-1-en-directo-y-gratis-por-internet-tve1-online-fuera-de-espana</sportsdevil>
+           <referer>http://www.verdirectotv.tv/</referer>
             <thumbnail>http://verdirectotv.tv/logos/tve1.png</thumbnail>
             </item> 
 			
@@ -223,7 +223,7 @@
 			
 			
 			
-					<item>
+			<item>
             <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] La Sexta [/COLOR]</title>
             <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
@@ -231,17 +231,17 @@
             </item> 
 			
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Nova [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/nova.php</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
+            <thumbnail>http://cinestrenostv.tv/img/nova.png</thumbnail>
             </item> 
 				
-					<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] [COLOR red] [/COLOR]</title>
-            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+			<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] [COLOR red] Energy [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/energy.php</sportsdevil>
            <referer>http://cinestrenostv.tv/</referer>
-            <thumbnail></thumbnail>
+            <thumbnail>http://verdirectotv.tv/logos/energy.png</thumbnail>
             </item> 
 			
 					<item>
