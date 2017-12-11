@@ -187,37 +187,85 @@
             </item> 
 				
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] AXN [COLOR red][/COLOR]</title>
-            <sportsdevil>http://www.verdirectotv.tv/ver-axn-gratis-online-en-directo-canal-axn-en-vivo</sportsdevil>
-            <referer>http://www.verdirectotv.tv/</referer>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Tve 1 [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/tve1.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red]  Tve 2 [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/tve2.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Antena 3 [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/antena-3.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/antena3.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Cuatro [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/cuatro.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] Telecinco [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/telecinco.png</thumbnail>
+            </item> 
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] La Sexta [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail>http://verdirectotv.tv/logos/sexta.png</thumbnail>
+            </item> 
+			
+				<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR][COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
+            </item> 
+				
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
-				
-				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] toros [COLOR red][/COLOR]</title>
-            <sportsdevil>http://verdirectotv.tv/ver-canal-movistar-toros-online-y-directo-las-24h-ferias-taurinas/</sportsdevil>
-            <referer>http://verdirectotv.tv/</referer>
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
-				
-				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR] motos [COLOR red][/COLOR]</title>
-            <sportsdevil>http://verdirectotv.tv/ver-motogp-online-y-directo-gratis-por-internet/</sportsdevil>
-           <referer>http://verdirectotv.tv/</referer>
-            <thumbnail>http://verdirectotv.tv/logos/motogp.jpg</thumbnail>
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
+            <thumbnail></thumbnail>
             </item> 
-				
-				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-           <referer>http://verdirectotv.tv/</referer>
+			
+					<item>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
 			
 				<item>
-            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red][/COLOR]</title>
-            <sportsdevil></sportsdevil>
-           <referer>http://verdirectotv.tv/</referer>
+            <title>[COLOR yellow][COLOR blue]**JHG** [/COLOR]  [COLOR red] [/COLOR]</title>
+            <sportsdevil>http://cinestrenostv.tv</sportsdevil>
+           <referer>http://cinestrenostv.tv/</referer>
             <thumbnail></thumbnail>
             </item> 
